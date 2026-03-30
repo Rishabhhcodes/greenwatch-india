@@ -1,24 +1,24 @@
-# 🌿 GreenWatch India
+# GreenWatch India
 
 ### Detecting Greenwashing in Food Products using NLP & Machine Learning 🇮🇳
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **GreenWatch India** is an AI-powered web application that analyzes packaged food products and detects **misleading health and “natural” claims (greenwashing)**.
 
 It uses:
 
-* 🧠 Machine Learning (ingredient risk classification)
-* 🔍 NLP (claim detection from labels & taglines)
+*  Machine Learning (ingredient risk classification)
+*  NLP (claim detection from labels & taglines)
 * 🇮🇳 FSSAI-based rules for Indian market relevance
 
-👉 The goal is to help consumers **understand what’s really inside their food**.
+The goal is to help consumers **understand what’s really inside their food**.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Many food products claim:
 
@@ -32,11 +32,11 @@ Many food products claim:
 * Harmful preservatives
 * Synthetic colors & flavor enhancers
 
-➡️ This misleading marketing is called **Greenwashing**.
+This misleading marketing is called **Greenwashing**.
 
 ---
 
-## 💡 Solution
+## Solution
 
 GreenWatch India:
 
@@ -47,16 +47,16 @@ GreenWatch India:
 
 | Score Range | Verdict                |
 | ----------- | ---------------------- |
-| 0–25        | ✅ Clean / Honest       |
-| 26–50       | 🟡 Mildly Suspicious   |
-| 51–75       | ⚠️ Likely Greenwashing |
-| 76–100      | 🚨 Strong Greenwashing |
+| 0–25        |  Clean / Honest       |
+| 26–50       |  Mildly Suspicious   |
+| 51–75       |  Likely Greenwashing |
+| 76–100      |  Strong Greenwashing |
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
-### 🔹 1. Claim Detection (NLP)
+### 1. Claim Detection (NLP)
 
 * Detects marketing claims like:
 
@@ -67,19 +67,19 @@ GreenWatch India:
 
 ---
 
-### 🔹 2. Ingredient Risk Analysis (ML)
+### 2. Ingredient Risk Analysis (ML)
 
 * Uses a trained model (TF-IDF + classifier)
 * Classifies each ingredient into:
 
-  * 🟢 Safe
-  * 🟡 Moderate
-  * 🟠 Moderately High
-  * 🔴 Hazardous
+  *  Safe
+  *  Moderate
+  *  Moderately High
+  *  Hazardous
 
 ---
 
-### 🔹 3. Greenwash Scoring
+### 3. Greenwash Scoring
 
 Combines:
 
@@ -91,7 +91,7 @@ Combines:
 
 ---
 
-### 🔹 4. Output
+### 4. Output
 
 * Ingredient breakdown
 * Risk levels
@@ -100,7 +100,7 @@ Combines:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Frontend:** Streamlit
 * **Backend:** Python
@@ -110,7 +110,7 @@ Combines:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 greenwatch-india/
@@ -135,9 +135,9 @@ greenwatch-india/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 🔹 1. Clone Repository
+### 1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/greenwatch-india.git
@@ -146,7 +146,7 @@ cd greenwatch-india
 
 ---
 
-### 🔹 2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -162,7 +162,7 @@ streamlit run app.py
 
 ---
 
-## 🔄 Model Training Pipeline (Optional)
+## Model Training Pipeline (Optional)
 
 Run only if you want to retrain:
 
@@ -175,7 +175,7 @@ python train_model.py
 
 ---
 
-## 🧪 Example Use Case
+## Example Use Case
 
 ### Input:
 
@@ -188,39 +188,14 @@ python train_model.py
 
 ```
 Greenwash Score: 72 / 100  
-Verdict: ⚠️ Likely Greenwashing
+Verdict: Likely Greenwashing
 ```
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 Deployed using **Render** with Streamlit.
-
----
-
-## 🎓 Academic Context
-
-* 🎓 B.Tech Minor Project
-* 🏫 KIIT University
-* 📅 Year: 2026
-
----
-
-## 🚀 Future Improvements
-
-* 📱 Barcode scanning (real-time product detection)
-* 🌍 Mobile app version
-* 🤖 Advanced NLP using transformers (BERT)
-* 🧾 Product comparison feature
-* 🛒 Integration with e-commerce platforms
-
----
-
-## 👨‍💻 Author
-
-**Rishabh Patel**
-B.Tech Student | Aspiring Builder 🚀
 
 ---
 
