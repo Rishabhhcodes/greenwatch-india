@@ -1,0 +1,229 @@
+ins_number,name,harm_level,source
+102,tartrazine,moderately high,FSSAI + EFSA + IARC
+104,quinoline yellow,moderately high,FSSAI + EFSA + IARC
+107,yellow 2g,hazardous,FSSAI + EFSA + IARC
+110,sunset yellow,moderately high,FSSAI + EFSA + IARC
+120,carmines,moderate,FSSAI + EFSA + IARC
+122,azorubine,moderately high,FSSAI + EFSA + IARC
+123,amaranth,hazardous,FSSAI + EFSA + IARC
+124,ponceau 4r,moderately high,FSSAI + EFSA + IARC
+127,erythrosine,moderately high,FSSAI + EFSA + IARC
+128,red 2g,hazardous,FSSAI + EFSA + IARC
+129,allura red,moderately high,FSSAI + EFSA + IARC
+131,patent blue v,moderate,FSSAI + EFSA + IARC
+132,indigotine,moderate,FSSAI + EFSA + IARC
+133,brilliant blue,moderate,FSSAI + EFSA + IARC
+142,green s,moderately high,FSSAI + EFSA + IARC
+150a,caramel plain,moderate,FSSAI + EFSA + IARC
+150b,caramel caustic sulphite,moderately high,FSSAI + EFSA + IARC
+150c,caramel ammonia,moderately high,FSSAI + EFSA + IARC
+150d,caramel sulphite ammonia,hazardous,FSSAI + EFSA + IARC
+151,brilliant black bn,moderately high,FSSAI + EFSA + IARC
+154,brown fk,hazardous,FSSAI + EFSA + IARC
+155,brown ht,moderately high,FSSAI + EFSA + IARC
+160b,annatto,moderate,FSSAI + EFSA + IARC
+171,titanium dioxide,hazardous,FSSAI + EFSA + IARC
+173,aluminium,moderately high,FSSAI + EFSA + IARC
+174,silver,moderate,FSSAI + EFSA + IARC
+175,gold,moderate,FSSAI + EFSA + IARC
+180,litholrubine bk,moderate,FSSAI + EFSA + IARC
+200,sorbic acid,moderate,FSSAI + EFSA + IARC
+202,potassium sorbate,moderate,FSSAI + EFSA + IARC
+210,benzoic acid,moderately high,FSSAI + EFSA + IARC
+211,sodium benzoate,hazardous,FSSAI + EFSA + IARC
+212,potassium benzoate,hazardous,FSSAI + EFSA + IARC
+213,calcium benzoate,hazardous,FSSAI + EFSA + IARC
+214,ethyl para-hydroxy-benzoate,moderately high,FSSAI + EFSA + IARC
+216,propyl para-hydroxy-benzoate,moderately high,FSSAI + EFSA + IARC
+218,methyl para-hydroxy-benzoate,moderately high,FSSAI + EFSA + IARC
+220,sulphur dioxide,moderately high,FSSAI + EFSA + IARC
+221,sodium sulphite,moderately high,FSSAI + EFSA + IARC
+222,sodium bisulphite,moderately high,FSSAI + EFSA + IARC
+223,sodium metabisulphite,moderately high,FSSAI + EFSA + IARC
+224,potassium metabisulphite,moderately high,FSSAI + EFSA + IARC
+225,potassium sulphite,moderately high,FSSAI + EFSA + IARC
+227,calcium bisulphite,moderately high,FSSAI + EFSA + IARC
+228,potassium bisulphite,moderately high,FSSAI + EFSA + IARC
+231,orthophenyl phenol,moderately high,FSSAI + EFSA + IARC
+232,sodium orthophenyl phenol,moderately high,FSSAI + EFSA + IARC
+234,nisin,moderate,FSSAI + EFSA + IARC
+235,natamycin,moderate,FSSAI + EFSA + IARC
+239,hexamethylene tetramine,moderately high,FSSAI + EFSA + IARC
+240,formaldehyde,hazardous,FSSAI + EFSA + IARC
+249,potassium nitrite,hazardous,FSSAI + EFSA + IARC
+250,sodium nitrite,hazardous,FSSAI + EFSA + IARC
+251,sodium nitrate,hazardous,FSSAI + EFSA + IARC
+252,potassium nitrate,hazardous,FSSAI + EFSA + IARC
+260,acetic acid,safe,FSSAI + EFSA + IARC
+261,potassium acetate,safe,FSSAI + EFSA + IARC
+262,sodium acetate,safe,FSSAI + EFSA + IARC
+270,lactic acid,safe,FSSAI + EFSA + IARC
+280,propionic acid,moderate,FSSAI + EFSA + IARC
+281,sodium propionate,moderate,FSSAI + EFSA + IARC
+282,calcium propionate,moderate,FSSAI + EFSA + IARC
+283,potassium propionate,moderate,FSSAI + EFSA + IARC
+300,ascorbic acid,safe,FSSAI + EFSA + IARC
+301,sodium ascorbate,safe,FSSAI + EFSA + IARC
+302,calcium ascorbate,safe,FSSAI + EFSA + IARC
+304,ascorbyl palmitate,moderate,FSSAI + EFSA + IARC
+306,tocopherols,safe,FSSAI + EFSA + IARC
+307,alpha tocopherol,safe,FSSAI + EFSA + IARC
+310,propyl gallate,moderate,FSSAI + EFSA + IARC
+311,octyl gallate,moderate,FSSAI + EFSA + IARC
+312,dodecyl gallate,moderate,FSSAI + EFSA + IARC
+315,erythorbic acid,moderate,FSSAI + EFSA + IARC
+316,sodium erythorbate,moderate,FSSAI + EFSA + IARC
+319,tbhq,hazardous,FSSAI + EFSA + IARC
+320,bha,hazardous,FSSAI + EFSA + IARC
+321,bht,hazardous,FSSAI + EFSA + IARC
+400,alginic acid,safe,FSSAI + EFSA + IARC
+401,sodium alginate,safe,FSSAI + EFSA + IARC
+402,potassium alginate,safe,FSSAI + EFSA + IARC
+403,ammonium alginate,safe,FSSAI + EFSA + IARC
+404,calcium alginate,safe,FSSAI + EFSA + IARC
+405,propylene glycol alginate,moderate,FSSAI + EFSA + IARC
+406,agar,safe,FSSAI + EFSA + IARC
+407,carrageenan,moderately high,FSSAI + EFSA + IARC
+407a,processed eucheuma seaweed,moderate,FSSAI + EFSA + IARC
+410,locust bean gum,safe,FSSAI + EFSA + IARC
+412,guar gum,safe,FSSAI + EFSA + IARC
+413,tragacanth,safe,FSSAI + EFSA + IARC
+414,arabic gum,safe,FSSAI + EFSA + IARC
+415,xanthan gum,moderate,FSSAI + EFSA + IARC
+416,karaya gum,moderate,FSSAI + EFSA + IARC
+417,tara gum,safe,FSSAI + EFSA + IARC
+418,gellan gum,moderate,FSSAI + EFSA + IARC
+420,sorbitol,moderate,FSSAI + EFSA + IARC
+421,mannitol,moderate,FSSAI + EFSA + IARC
+422,glycerol,safe,FSSAI + EFSA + IARC
+440,pectins,safe,FSSAI + EFSA + IARC
+460,cellulose,safe,FSSAI + EFSA + IARC
+461,methyl cellulose,moderate,FSSAI + EFSA + IARC
+462,ethyl cellulose,moderate,FSSAI + EFSA + IARC
+463,hydroxypropyl cellulose,moderate,FSSAI + EFSA + IARC
+464,hydroxypropyl methyl cellulose,moderate,FSSAI + EFSA + IARC
+465,methyl ethyl cellulose,moderate,FSSAI + EFSA + IARC
+466,sodium carboxy methyl cellulose,moderate,FSSAI + EFSA + IARC
+470,salts of fatty acids,moderate,FSSAI + EFSA + IARC
+471,mono and diglycerides,moderate,FSSAI + EFSA + IARC
+472a,acetic acid esters,moderate,FSSAI + EFSA + IARC
+472b,lactic acid esters,moderate,FSSAI + EFSA + IARC
+472c,citric acid esters,moderate,FSSAI + EFSA + IARC
+472e,diacetyltartaric acid esters,moderate,FSSAI + EFSA + IARC
+473,sucrose esters,moderate,FSSAI + EFSA + IARC
+474,sucroglycerides,moderate,FSSAI + EFSA + IARC
+475,polyglycerol esters,moderate,FSSAI + EFSA + IARC
+476,polyglycerol polyricinoleate,moderate,FSSAI + EFSA + IARC
+477,propylene glycol esters,moderate,FSSAI + EFSA + IARC
+481,sodium stearoyl lactylate,moderate,FSSAI + EFSA + IARC
+482,calcium stearoyl lactylate,moderate,FSSAI + EFSA + IARC
+491,sorbitan monostearate,moderate,FSSAI + EFSA + IARC
+492,sorbitan tristearate,moderate,FSSAI + EFSA + IARC
+493,sorbitan monolaurate,moderate,FSSAI + EFSA + IARC
+494,sorbitan monooleate,moderate,FSSAI + EFSA + IARC
+495,sorbitan monopalmitate,moderate,FSSAI + EFSA + IARC
+338,phosphoric acid,moderately high,FSSAI + EFSA + IARC
+339,sodium phosphate,moderately high,FSSAI + EFSA + IARC
+340,potassium phosphate,moderately high,FSSAI + EFSA + IARC
+341,calcium phosphate,moderately high,FSSAI + EFSA + IARC
+343,magnesium phosphate,moderate,FSSAI + EFSA + IARC
+450,diphosphate,moderately high,FSSAI + EFSA + IARC
+451,triphosphate,moderately high,FSSAI + EFSA + IARC
+452,polyphosphate,moderately high,FSSAI + EFSA + IARC
+950,acesulfame potassium,moderately high,FSSAI + EFSA + IARC
+951,aspartame,moderately high,FSSAI + EFSA + IARC
+952,cyclamate,hazardous,FSSAI + EFSA + IARC
+953,isomalt,moderate,FSSAI + EFSA + IARC
+954,saccharin,hazardous,FSSAI + EFSA + IARC
+955,sucralose,moderately high,FSSAI + EFSA + IARC
+957,thaumatin,safe,FSSAI + EFSA + IARC
+959,neohesperidin dc,moderate,FSSAI + EFSA + IARC
+960,steviol glycosides,safe,FSSAI + EFSA + IARC
+961,neotame,moderate,FSSAI + EFSA + IARC
+962,aspartame acesulfame salt,moderately high,FSSAI + EFSA + IARC
+965,maltitol,moderate,FSSAI + EFSA + IARC
+966,lactitol,moderate,FSSAI + EFSA + IARC
+967,xylitol,safe,FSSAI + EFSA + IARC
+968,erythritol,safe,FSSAI + EFSA + IARC
+620,glutamic acid,moderate,FSSAI + EFSA + IARC
+621,msg,moderately high,FSSAI + EFSA + IARC
+622,potassium glutamate,moderately high,FSSAI + EFSA + IARC
+623,calcium glutamate,moderately high,FSSAI + EFSA + IARC
+624,ammonium glutamate,moderately high,FSSAI + EFSA + IARC
+625,magnesium glutamate,moderately high,FSSAI + EFSA + IARC
+626,guanylic acid,moderately high,FSSAI + EFSA + IARC
+627,disodium guanylate,moderately high,FSSAI + EFSA + IARC
+628,dipotassium guanylate,moderately high,FSSAI + EFSA + IARC
+629,calcium guanylate,moderately high,FSSAI + EFSA + IARC
+630,inosinic acid,moderately high,FSSAI + EFSA + IARC
+631,disodium inosinate,moderately high,FSSAI + EFSA + IARC
+635,disodium ribonucleotide,moderately high,FSSAI + EFSA + IARC
+640,glycine,safe,FSSAI + EFSA + IARC
+330,citric acid,safe,FSSAI + EFSA + IARC
+331,sodium citrate,safe,FSSAI + EFSA + IARC
+332,potassium citrate,safe,FSSAI + EFSA + IARC
+333,calcium citrate,safe,FSSAI + EFSA + IARC
+334,tartaric acid,safe,FSSAI + EFSA + IARC
+335,sodium tartrate,safe,FSSAI + EFSA + IARC
+336,potassium tartrate,safe,FSSAI + EFSA + IARC
+337,sodium potassium tartrate,safe,FSSAI + EFSA + IARC
+350,sodium malate,safe,FSSAI + EFSA + IARC
+351,potassium malate,safe,FSSAI + EFSA + IARC
+352,calcium malate,safe,FSSAI + EFSA + IARC
+353,metatartaric acid,moderate,FSSAI + EFSA + IARC
+355,adipic acid,moderate,FSSAI + EFSA + IARC
+380,triammonium citrate,moderate,FSSAI + EFSA + IARC
+381,ferric ammonium citrate,moderate,FSSAI + EFSA + IARC
+385,calcium disodium edta,hazardous,FSSAI + EFSA + IARC
+500,sodium carbonate,safe,FSSAI + EFSA + IARC
+501,potassium carbonate,safe,FSSAI + EFSA + IARC
+503,ammonium carbonate,safe,FSSAI + EFSA + IARC
+504,magnesium carbonate,safe,FSSAI + EFSA + IARC
+507,hydrochloric acid,moderate,FSSAI + EFSA + IARC
+508,potassium chloride,safe,FSSAI + EFSA + IARC
+509,calcium chloride,safe,FSSAI + EFSA + IARC
+511,magnesium chloride,safe,FSSAI + EFSA + IARC
+514,sodium sulphate,moderate,FSSAI + EFSA + IARC
+516,calcium sulphate,safe,FSSAI + EFSA + IARC
+524,sodium hydroxide,moderate,FSSAI + EFSA + IARC
+525,potassium hydroxide,moderate,FSSAI + EFSA + IARC
+526,calcium hydroxide,safe,FSSAI + EFSA + IARC
+527,ammonium hydroxide,moderate,FSSAI + EFSA + IARC
+528,magnesium hydroxide,safe,FSSAI + EFSA + IARC
+529,calcium oxide,moderate,FSSAI + EFSA + IARC
+530,magnesium oxide,safe,FSSAI + EFSA + IARC
+535,sodium ferrocyanide,moderate,FSSAI + EFSA + IARC
+536,potassium ferrocyanide,moderate,FSSAI + EFSA + IARC
+541,sodium aluminium phosphate,moderately high,FSSAI + EFSA + IARC
+551,silicon dioxide,moderate,FSSAI + EFSA + IARC
+552,calcium silicate,moderate,FSSAI + EFSA + IARC
+553,magnesium silicate,moderate,FSSAI + EFSA + IARC
+554,sodium aluminosilicate,moderate,FSSAI + EFSA + IARC
+555,potassium aluminium silicate,moderate,FSSAI + EFSA + IARC
+556,calcium aluminosilicate,moderate,FSSAI + EFSA + IARC
+559,aluminium silicate,moderate,FSSAI + EFSA + IARC
+570,stearic acid,moderate,FSSAI + EFSA + IARC
+574,gluconic acid,safe,FSSAI + EFSA + IARC
+575,glucono delta lactone,safe,FSSAI + EFSA + IARC
+576,sodium gluconate,safe,FSSAI + EFSA + IARC
+577,potassium gluconate,safe,FSSAI + EFSA + IARC
+578,calcium gluconate,safe,FSSAI + EFSA + IARC
+579,ferrous gluconate,safe,FSSAI + EFSA + IARC
+585,ferrous lactate,safe,FSSAI + EFSA + IARC
+1520,propylene glycol,hazardous,FSSAI + EFSA + IARC
+1400,dextrin,moderate,FSSAI + EFSA + IARC
+1401,acid treated starch,moderate,FSSAI + EFSA + IARC
+1402,alkaline treated starch,moderate,FSSAI + EFSA + IARC
+1403,bleached starch,moderate,FSSAI + EFSA + IARC
+1404,oxidised starch,moderate,FSSAI + EFSA + IARC
+1405,enzyme treated starch,moderate,FSSAI + EFSA + IARC
+1410,monostarch phosphate,moderate,FSSAI + EFSA + IARC
+1412,distarch phosphate,moderate,FSSAI + EFSA + IARC
+1413,phosphated distarch phosphate,moderate,FSSAI + EFSA + IARC
+1414,acetylated distarch phosphate,moderate,FSSAI + EFSA + IARC
+1420,starch acetate,moderate,FSSAI + EFSA + IARC
+1422,acetylated distarch adipate,moderate,FSSAI + EFSA + IARC
+1440,hydroxypropyl starch,moderate,FSSAI + EFSA + IARC
+1442,hydroxypropyl distarch phosphate,moderate,FSSAI + EFSA + IARC
+1450,starch sodium octenyl succinate,moderate,FSSAI + EFSA + IARC
+1451,acetylated oxidised starch,moderate,FSSAI + EFSA + IARC

@@ -1,0 +1,4033 @@
+ingredient,frequency,harm_level,harm_score
+salt,390494,safe,1
+sugar,275188,moderately high,3
+water,268179,safe,1
+sel,181415,moderate,2
+eau,146705,moderate,2
+sucre,145414,moderate,2
+citric acid,107127,moderate,2
+dextrose,97484,moderately high,3
+wheat flour,70707,safe,1
+niacin,69293,moderate,2
+milk,63561,safe,1
+riboflavin,61736,moderate,2
+soy lecithin,59037,moderate,2
+natural flavor,56947,moderate,2
+spices,52699,moderate,2
+folic acid,51980,moderate,2
+corn syrup,51917,moderately high,3
+zucker,49980,moderate,2
+sea salt,49574,safe,1
+maltodextrin,48106,moderately high,3
+enzymes,43701,moderate,2
+xanthan gum,41081,moderate,2
+soybean oil,39355,moderate,2
+natural flavors,39114,moderate,2
+reduced iron,39033,moderate,2
+wasser,38741,moderate,2
+lait,37916,moderate,2
+cocoa butter,36508,safe,1
+undefined,36262,moderate,2
+palm oil,34245,moderate,2
+garlic,33665,safe,1
+speisesalz,33342,moderate,2
+thiamine mononitrate,32916,moderate,2
+yeast,32465,moderate,2
+garlic powder,30787,moderate,2
+ascorbic acid,30522,safe,1
+preservative,30521,moderately high,3
+huile de tournesol,30229,moderate,2
+corn starch,30219,moderate,2
+farine de bl,29740,moderate,2
+vegetable oil,29739,moderate,2
+cream,29269,safe,1
+onion powder,29046,moderate,2
+sirop de glucose,28359,moderately high,3
+sal,27923,moderate,2
+whey,27860,moderate,2
+sunflower oil,27685,moderate,2
+vinegar,27589,moderate,2
+guar gum,27338,moderate,2
+paprika,27094,moderate,2
+huile de colza,26309,moderate,2
+yeast extract,26280,moderate,2
+iron,26250,moderate,2
+beurre de cacao,25778,moderate,2
+high fructose corn syrup,25520,moderately high,3
+canola oil,25289,moderate,2
+color,25207,moderate,2
+soja,24651,moderate,2
+aroma,22773,moderate,2
+baking soda,22563,moderate,2
+modified corn starch,22481,moderate,2
+pices,22134,moderate,2
+thiamin mononitrate,22041,moderate,2
+potassium sorbate,21728,moderate,2
+sodium bicarbonate,21631,moderate,2
+onion,21576,safe,1
+butter,21505,safe,1
+caramel color,21494,moderately high,3
+lactose,21374,moderate,2
+emulsifier,21220,moderate,2
+ail,21115,moderate,2
+lactic acid,20962,moderate,2
+zout,19907,moderate,2
+armes,19861,moderate,2
+pte de cacao,19770,moderate,2
+azcar,19752,moderate,2
+arme,19654,moderate,2
+salz,19563,moderate,2
+carrageenan,19208,moderately high,3
+cane sugar,19206,moderately high,3
+sodium citrate,18922,moderate,2
+arme naturel,18577,moderate,2
+cheese cultures,18567,safe,1
+gluten,18533,moderate,2
+levure,18422,moderate,2
+sucralose,17676,moderately high,3
+gewrze,17660,moderate,2
+wheat,17523,safe,1
+calcium carbonate,17487,moderate,2
+rice flour,17477,safe,1
+vitamin c,17472,moderate,2
+honey,17409,safe,1
+agua,17362,moderate,2
+modified food starch,17274,moderate,2
+cheese culture,17220,safe,1
+malted barley flour,17122,safe,1
+armes naturels,16954,moderate,2
+tomato paste,16436,safe,1
+glucose syrup,16365,moderately high,3
+brown sugar,16251,moderately high,3
+spice,15998,safe,1
+rapeseed oil,15658,moderate,2
+sodium phosphate,15479,moderately high,3
+natural and artificial flavors,15440,moderate,2
+palm,15324,moderate,2
+artificial flavor,15189,moderately high,3
+sale,15138,moderate,2
+almonds,15096,moderate,2
+black pepper,14975,safe,1
+red,14746,moderate,2
+distilled vinegar,14654,moderate,2
+molasses,14654,moderate,2
+vitamin a palmitate,14624,moderate,2
+potato starch,14602,moderate,2
+pasteurized milk,14589,safe,1
+suiker,14532,moderate,2
+eggs,14219,moderate,2
+sodium benzoate,14137,hazardous,4
+peanuts,14115,moderate,2
+leavening,13887,moderate,2
+monocalcium phosphate,13823,moderately high,3
+skim milk,13770,safe,1
+malic acid,13598,moderate,2
+cocoa,13582,safe,1
+cornstarch,13426,moderate,2
+pectin,13404,moderate,2
+yellow,13273,moderate,2
+coconut oil,13209,moderate,2
+poivre,12998,moderate,2
+natural and artificial flavor,12968,moderately high,3
+wheat gluten,12946,safe,1
+filtered water,12776,safe,1
+weizenmehl,12618,moderate,2
+glycerin,12581,moderate,2
+nonfat milk,12573,safe,1
+turmeric,12521,safe,1
+onions,12424,moderate,2
+cellulose gum,12415,moderate,2
+corn,12336,safe,1
+beurre,12303,moderate,2
+rapsl,12296,moderate,2
+vinaigre dalcool,12279,moderate,2
+pork,11983,moderate,2
+sodium acid pyrophosphate,11881,moderate,2
+oignons,11659,moderate,2
+vitamin b,11437,moderate,2
+cinnamon,11332,safe,1
+niacinamide,11330,moderate,2
+thiamin,11329,moderate,2
+monosodium glutamate,11296,moderately high,3
+oignon,11270,moderate,2
+mulsifiant,11118,moderate,2
+calcium chloride,11056,moderate,2
+maltodextrine,11040,moderate,2
+emulgator,10905,moderate,2
+cocoa mass,10865,safe,1
+lait crm en poudre,10832,moderate,2
+zucchero,10830,moderate,2
+cocoa powder,10740,moderate,2
+tapioca starch,10697,moderate,2
+carbonated water,10691,safe,1
+tomatoes,10670,moderate,2
+whey powder,10644,moderate,2
+acide citrique,10641,moderate,2
+gelatin,10620,moderate,2
+acidity regulator,10616,moderate,2
+glukosesirup,10500,moderate,2
+enriched wheat flour,10486,safe,1
+blue,10441,moderate,2
+locust bean gum,10384,moderate,2
+pyridoxine hydrochloride,10350,moderate,2
+chocolate liquor,10296,safe,1
+antioxidant,10205,moderate,2
+mono and diglycerides,10096,moderate,2
+corn syrup solids,10083,moderately high,3
+flavouring,10079,moderate,2
+parsley,10043,moderate,2
+kakaobutter,10035,moderate,2
+potatoes,9959,moderate,2
+enriched flour,9932,moderate,2
+sonnenblumenl,9912,moderate,2
+acidifiant acide citrique,9897,moderate,2
+sorbitol,9743,moderate,2
+ferments lactiques,9723,moderate,2
+soy,9545,safe,1
+nonfat dry milk,9447,safe,1
+beef,9391,moderate,2
+palme,9390,moderate,2
+arme naturel de vanille,9372,moderate,2
+fructose,9365,moderately high,3
+sunflower lecithin,9353,moderate,2
+kakaomasse,9329,moderate,2
+acqua,9261,moderate,2
+wheat starch,9250,moderate,2
+calcium sulfate,9180,moderate,2
+chocolate,9165,safe,1
+colour,8859,moderate,2
+carrots,8779,moderate,2
+potassium chloride,8699,moderate,2
+natrliches aroma,8691,moderate,2
+for color,8676,moderate,2
+whey protein concentrate,8629,moderate,2
+gum arabic,8629,moderate,2
+sirop de glucosefructose,8582,moderate,2
+sodium nitrite,8559,hazardous,4
+processed with alkali,8538,moderate,2
+amidon de mas,8535,moderate,2
+lemon juice concentrate,8532,moderate,2
+organic cane sugar,8501,moderately high,3
+colza,8498,moderate,2
+carnauba wax,8495,moderate,2
+vinaigre,8487,moderate,2
+moutarde,8480,moderate,2
+titanium dioxide,8448,hazardous,4
+preservatives,8369,moderate,2
+whole milk powder,8307,moderate,2
+crme,8293,moderate,2
+persil,8285,moderate,2
+ferrous sulfate,8276,moderate,2
+glucose,8170,moderately high,3
+flavourings,8117,moderate,2
+ginger,8110,safe,1
+coconut,8099,safe,1
+vanilla extract,8082,moderate,2
+soybeans,8046,moderate,2
+origine france,8002,moderate,2
+cumin,7999,safe,1
+celery,7967,moderate,2
+oregano,7962,moderate,2
+sodium erythorbate,7957,moderate,2
+olive oil,7749,moderate,2
+vanilla,7730,safe,1
+sunflower,7710,moderate,2
+annatto,7638,moderate,2
+modifizierte strke,7635,moderate,2
+palm kernel oil,7572,moderate,2
+dehydrated garlic,7550,safe,1
+branntweinessig,7507,moderate,2
+calcium propionate,7503,moderate,2
+meersalz,7496,moderate,2
+rice,7424,safe,1
+tournesol,7390,moderate,2
+buttermilk,7387,moderate,2
+cheddar cheese,7270,safe,1
+flour,7243,moderate,2
+melk,7073,moderate,2
+colorant,7034,moderate,2
+soybean,6997,safe,1
+tomato puree,6978,safe,1
+silicon dioxide,6972,moderate,2
+lemon juice,6880,safe,1
+farine de riz,6811,moderate,2
+strke,6780,moderate,2
+paprika extract,6734,moderate,2
+cleri,6718,moderate,2
+protines de lait,6714,moderate,2
+extra virgin olive oil,6653,moderate,2
+emulsifiers,6632,moderate,2
+basil,6576,moderate,2
+extrait de levure,6574,moderate,2
+egg,6527,safe,1
+baking powder,6518,moderate,2
+polysorbate,6503,moderately high,3
+hefe,6497,moderate,2
+amidon,6457,moderate,2
+seasoning,6450,moderate,2
+raisins,6391,moderate,2
+carrot,6362,safe,1
+acesulfame potassium,6321,moderately high,3
+soy flour,6314,safe,1
+curcuma,6299,moderate,2
+cocoa processed with alkali,6273,safe,1
+zwiebeln,6260,moderate,2
+vitamin e,6235,moderate,2
+amidon modifi,6226,moderate,2
+sel de cuisine,6226,moderate,2
+skimmed milk powder,6203,moderate,2
+tomato powder,6179,moderate,2
+viande de porc,6155,moderate,2
+lait entier en poudre,6140,moderate,2
+trinkwasser,6124,moderate,2
+milk chocolate,6097,safe,1
+huile de palme,6085,moderate,2
+sodium stearoyl lactylate,6072,moderate,2
+sukker,6031,moderate,2
+modified cornstarch,6031,moderate,2
+monoglycerides,6027,moderate,2
+whole wheat flour,5984,safe,1
+dried garlic,5979,safe,1
+invert sugar,5966,moderately high,3
+egg whites,5952,safe,1
+cashews,5926,moderate,2
+sodium aluminum phosphate,5924,moderately high,3
+sucre de canne,5891,moderate,2
+carottes,5856,moderate,2
+natural flavour,5821,moderate,2
+gluten de bl,5781,moderate,2
+sodium diacetate,5764,moderate,2
+vanillin,5750,moderate,2
+corn flour,5748,safe,1
+dehydrated onion,5747,safe,1
+vitamin d,5745,moderate,2
+sodium caseinate,5741,moderate,2
+sorbic acid,5740,moderate,2
+cultures,5730,moderate,2
+knoblauch,5720,moderate,2
+cacao maigre en poudre,5703,moderate,2
+sodium ascorbate,5681,moderate,2
+bleached wheat flour,5670,safe,1
+caramel,5666,moderate,2
+huiles vgtales,5665,moderate,2
+milch,5665,moderate,2
+soy sauce,5612,safe,1
+carotte,5593,moderate,2
+disodium phosphate,5581,moderately high,3
+margarine,5558,moderate,2
+milk fat,5536,safe,1
+farine de ble,5535,moderate,2
+cornflour,5527,moderate,2
+canola,5520,moderate,2
+potassium citrate,5513,moderate,2
+beta carotene,5512,safe,1
+carob bean gum,5503,moderate,2
+disodium inosinate,5469,moderately high,3
+unsweetened chocolate,5449,safe,1
+plantes aromatiques,5433,moderate,2
+suerungsmittel citronensure,5419,moderate,2
+sodium phosphates,5405,moderate,2
+acidifiant,5399,moderate,2
+vollmilchpulver,5385,moderate,2
+vann,5365,moderate,2
+bht,5347,hazardous,4
+harina de trigo,5346,moderate,2
+specerijen,5321,moderate,2
+fcule de pomme de terre,5310,moderate,2
+artificial color,5261,moderately high,3
+magermilchpulver,5242,moderate,2
+flavoring,5219,moderate,2
+jus de citron concentr,5201,moderate,2
+vegetable oils,5161,moderate,2
+aromas,5155,moderate,2
+dried onion,5152,safe,1
+lcithine de soja,5112,moderate,2
+ferments,5107,moderate,2
+graines de moutarde,5102,moderate,2
+tomate,5087,moderate,2
+stabilisator,5057,moderate,2
+soya lecithin,5054,moderate,2
+milkfat,5028,moderate,2
+miel,5010,moderate,2
+cranberries,4991,moderate,2
+cukier,4839,moderate,2
+huile dolive vierge extra,4818,moderate,2
+soy protein isolate,4805,safe,1
+sel marin,4804,moderate,2
+citronensure,4791,moderate,2
+egg yolks,4787,safe,1
+aromen,4779,moderate,2
+inulin,4771,moderate,2
+sesame seeds,4769,safe,1
+amidon de bl,4710,moderate,2
+conservateur,4710,moderate,2
+dipotassium phosphate,4707,moderately high,3
+zinc oxide,4691,moderate,2
+phosphoric acid,4676,moderately high,3
+parmesan cheese,4663,safe,1
+acar,4658,moderate,2
+poudre de lait crm,4649,moderate,2
+tarwebloem,4645,moderate,2
+sirop de sucre inverti,4621,moderate,2
+natural flavouring,4609,moderate,2
+from milk,4606,safe,1
+thickener,4577,moderate,2
+cyanocobalamin,4575,moderate,2
+cido ctrico,4572,moderate,2
+enbrandscompleted,4572,moderate,2
+disodium guanylate,4571,moderately high,3
+red lake,4555,moderate,2
+lactosrum en poudre,4552,moderate,2
+corn oil,4542,moderate,2
+poisson,4539,moderate,2
+raising agents,4524,moderate,2
+artificial flavors,4522,moderate,2
+dextrin,4518,moderate,2
+tomato,4516,safe,1
+amidon modifi de mas,4516,moderate,2
+france,4510,moderate,2
+jus de citron,4503,moderate,2
+aspartame,4502,moderately high,3
+spirit vinegar,4471,moderate,2
+shea,4469,moderate,2
+oeufs,4464,moderate,2
+poudre lever,4441,moderate,2
+whole milk,4433,safe,1
+basilic,4429,moderate,2
+ufs,4422,moderate,2
+aceite de girasol,4422,moderate,2
+gewrzextrakte,4420,moderate,2
+soya,4406,moderate,2
+mustard seed,4374,safe,1
+coriander,4370,safe,1
+humectant,4344,moderate,2
+food starchmodified,4309,moderate,2
+acetic acid,4302,moderate,2
+thym,4295,moderate,2
+an emulsifier,4282,moderate,2
+mustard,4277,safe,1
+prsure,4274,moderate,2
+datem,4273,moderate,2
+huile vgtale,4250,moderate,2
+antioxydant,4238,moderate,2
+propylene glycol,4237,hazardous,4
+natuurlijk aroma,4236,moderate,2
+aqua,4233,moderate,2
+pecans,4232,moderate,2
+lecithin,4226,moderate,2
+tricalcium phosphate,4222,moderately high,3
+biotin,4218,moderate,2
+red pepper,4215,safe,1
+confectioners glaze,4212,moderate,2
+aromi,4203,moderate,2
+maltitol,4200,moderate,2
+natural flavoring,4193,moderate,2
+mais,4181,moderate,2
+autolyzed yeast extract,4178,moderate,2
+cottonseed,4177,moderate,2
+fumaric acid,4173,moderate,2
+enproductnamecompleted,4164,moderate,2
+apple juice concentrate,4135,moderate,2
+huile dolive,4106,moderate,2
+sulfites,4103,moderate,2
+enfrontphotoselected,4100,moderate,2
+emulgator lecithine,4087,moderate,2
+strawberries,4082,moderate,2
+cilantro,4065,moderate,2
+ammonium bicarbonate,4063,moderate,2
+barley malt extract,4046,moderate,2
+encharacteristicstobecompleted,4036,moderate,2
+mulsifiants,4030,moderate,2
+jalapeno peppers,4023,moderate,2
+suerungsmittel,4011,moderate,2
+spinach,4009,safe,1
+mas,3994,moderate,2
+stabiliser,3982,moderate,2
+chili,3976,moderate,2
+yellow lake,3975,moderate,2
+rapeseed,3962,moderate,2
+rice starch,3960,moderate,2
+coriandre,3948,moderate,2
+crustacs,3937,moderate,2
+orange,3936,safe,1
+ennutritionfactscompleted,3924,moderate,2
+oeuf,3923,moderate,2
+woda,3905,moderate,2
+vegetable shortening,3878,moderate,2
+calcium disodium edta,3877,hazardous,4
+enzyme,3865,moderate,2
+beurre concentr,3853,moderate,2
+glukosefruktosesirup,3850,moderate,2
+apple,3846,safe,1
+sodium alginate,3845,moderate,2
+calcium phosphate,3844,moderately high,3
+enoriginstobecompleted,3842,moderate,2
+flavorings,3840,moderate,2
+acid,3838,moderate,2
+apples,3837,moderate,2
+jodiertes speisesalz,3827,moderate,2
+white pepper,3820,safe,1
+chicken fat,3804,safe,1
+amandes,3793,moderate,2
+sweetener,3784,moderately high,3
+thiamine,3775,moderate,2
+starch,3768,moderate,2
+pepper,3744,safe,1
+tomates,3739,moderate,2
+mulsifiant lcithines,3737,moderate,2
+fruits coque,3725,moderate,2
+kruter,3722,moderate,2
+milk protein concentrate,3719,moderate,2
+pea protein,3673,moderate,2
+sugars,3673,moderate,2
+noisettes,3669,moderate,2
+semoule de bl dur,3668,moderate,2
+chapelure,3667,moderate,2
+to preserve freshness,3666,moderate,2
+encategoriescompleted,3646,moderate,2
+vin blanc,3643,moderate,2
+mixed tocopherols,3633,moderate,2
+paississant,3625,moderate,2
+tomato juice,3624,safe,1
+correcteur dacidit,3613,moderate,2
+enquantitycompleted,3592,moderate,2
+organic sugar,3583,moderately high,3
+egg yolk,3565,safe,1
+garlic pure,3558,safe,1
+alcohol,3557,moderate,2
+color added,3550,moderate,2
+sunflower seeds,3537,moderate,2
+stabilisant,3533,moderate,2
+peanut oil,3525,moderate,2
+whey protein isolate,3524,moderate,2
+poudre de lait entier,3519,moderate,2
+maize starch,3517,moderate,2
+bha,3502,hazardous,4
+enphotostobevalidated,3494,moderate,2
+milk solids,3482,safe,1
+poudres lever,3469,moderate,2
+sel de mer,3467,moderate,2
+zonnebloemolie,3467,moderate,2
+carbonates de sodium,3465,moderate,2
+modified starch,3456,moderate,2
+pineapple,3453,safe,1
+sodium chloride,3446,moderate,2
+origan,3438,moderate,2
+enpackagingphototobeselected,3434,moderate,2
+hydrolyzed soy protein,3428,safe,1
+vitamin a,3420,moderate,2
+glucosestroop,3415,moderate,2
+stabilisants,3408,moderate,2
+annatto extract,3404,moderate,2
+riz,3394,moderate,2
+caffeine,3393,moderate,2
+glycerol,3386,moderate,2
+gingembre,3385,moderate,2
+parfum,3380,moderate,2
+enexpirationdatetobecompleted,3374,moderate,2
+apple cider vinegar,3373,moderate,2
+antioxydant acide ascorbique,3368,moderate,2
+palmfett,3363,moderate,2
+gua,3363,moderate,2
+eningredientscompleted,3362,moderate,2
+durum wheat semolina,3347,safe,1
+emulgente,3343,moderate,2
+nutmeg,3324,safe,1
+dark chocolate,3313,safe,1
+dont lait,3311,moderate,2
+hazelnuts,3309,moderate,2
+schweinefleisch,3302,moderate,2
+manteca de cacao,3299,moderate,2
+kaliumjodat,3294,moderate,2
+oats,3264,moderate,2
+mulsifiant lcithine de soja,3264,moderate,2
+lecithine,3258,moderate,2
+gellan gum,3257,moderate,2
+natural smoke flavor,3253,moderate,2
+verdickungsmittel,3242,moderate,2
+glucosefructose syrup,3232,moderate,2
+antioxidante,3230,moderate,2
+modified maize starch,3225,moderate,2
+lait crm,3211,moderate,2
+chicken,3205,safe,1
+acidity regulators,3201,moderate,2
+acide ascorbique,3186,moderate,2
+potato,3184,safe,1
+mono diglycerides,3184,moderate,2
+leche,3184,moderate,2
+kurkuma,3177,moderate,2
+stabilizer,3152,moderate,2
+fish,3148,safe,1
+palml,3146,moderate,2
+calcium,3144,moderate,2
+mollusques,3140,moderate,2
+artificial colors,3136,moderate,2
+guarkernmehl,3134,moderate,2
+yellow corn flour,3131,safe,1
+gomme guar,3122,moderate,2
+lait entier,3109,moderate,2
+a preservative,3105,moderately high,3
+pommes de terre,3103,moderate,2
+palmiste,3101,moderate,2
+erythritol,3094,safe,1
+lactic acid starter culture,3094,moderate,2
+peanut butter,3085,safe,1
+quot,3072,moderate,2
+vatten,3064,moderate,2
+thyme,3063,moderate,2
+whole eggs,3062,moderate,2
+piment,3053,moderate,2
+cultured milk,3046,safe,1
+conservateur nitrite de sodium,3045,hazardous,4
+wheat bran,3042,safe,1
+colours,3041,moderate,2
+diphosphates,3032,moderate,2
+gomme xanthane,3021,moderate,2
+chili pepper,3015,safe,1
+xanthan,3013,moderate,2
+rosemary extract,3007,moderate,2
+socker,2997,moderate,2
+reismehl,2995,moderate,2
+eningredientsphotoselected,2994,moderate,2
+maisstrke,2984,moderate,2
+maltodextrina,2981,moderate,2
+potassium benzoate,2977,hazardous,4
+citron,2970,moderate,2
+tarwe,2966,moderate,2
+extrait de malt dorge,2964,moderate,2
+poissons,2962,moderate,2
+butterreinfett,2954,moderate,2
+gum acacia,2953,moderate,2
+barley,2947,safe,1
+dextrosa,2942,moderate,2
+blueberries,2933,moderate,2
+skim milk powder,2920,moderate,2
+cultured pasteurized milk,2920,safe,1
+voedingszuur,2916,moderate,2
+gelatine,2912,moderate,2
+emulsionante,2905,moderate,2
+aceite vegetal,2896,moderate,2
+broccoli,2883,moderate,2
+latte,2883,moderate,2
+poivre noir,2877,moderate,2
+kartoffelstrke,2876,moderate,2
+mango,2872,safe,1
+olio di semi di girasole,2869,moderate,2
+jambon de porc,2867,moderate,2
+amidon de pomme de terre,2865,moderate,2
+calcium pantothenate,2863,moderate,2
+modified tapioca starch,2862,moderate,2
+ennutritionphotoselected,2854,moderate,2
+gras de porc,2850,moderate,2
+kohlensure,2848,moderate,2
+cannelle,2840,moderate,2
+blue lake,2839,moderate,2
+cacao en poudre,2837,moderate,2
+concentrated lemon juice,2835,safe,1
+colorante,2827,moderate,2
+to maintain freshness,2818,moderate,2
+colorants,2817,moderate,2
+chicken broth,2812,safe,1
+raps,2797,moderate,2
+sesame oil,2797,moderate,2
+contient lait,2794,moderate,2
+konservierungsstoff natriumnitrit,2787,moderate,2
+walnuts,2783,moderate,2
+natamycin,2782,moderate,2
+antioxydant ascorbate de sodium,2780,moderate,2
+amidon de riz,2780,moderate,2
+koriander,2771,moderate,2
+ail en poudre,2764,moderate,2
+glycerine,2762,moderate,2
+natrliche aromen,2759,moderate,2
+vegetable fat,2747,moderate,2
+sal yodada,2741,moderate,2
+saccharose,2737,moderate,2
+kokos,2733,moderate,2
+petersilie,2733,moderate,2
+palm kernel,2728,moderate,2
+cayenne pepper,2722,safe,1
+to protect flavor,2721,moderate,2
+tartaric acid,2717,moderate,2
+cacao,2716,moderate,2
+soy protein concentrate,2704,moderate,2
+voda,2697,moderate,2
+especias,2695,moderate,2
+levadura,2688,moderate,2
+zitronensaftkonzentrat,2680,moderate,2
+conserveermiddel,2680,moderate,2
+pectine,2678,moderate,2
+enriched bleached flour,2674,moderate,2
+jarabe de glucosa,2670,moderate,2
+flavour,2668,moderate,2
+poivre blanc,2667,moderate,2
+sweeteners,2665,moderate,2
+purified water,2665,safe,1
+stabilisers,2660,moderate,2
+azijn,2655,moderate,2
+cellulose,2654,moderate,2
+pomme,2654,moderate,2
+vital wheat gluten,2649,safe,1
+riboflavin vitamin b,2649,moderate,2
+agar,2648,moderate,2
+modified potato starch,2648,moderate,2
+acesulfame k,2647,moderately high,3
+flavor,2645,moderate,2
+vesi,2645,moderate,2
+stevia leaf extract,2638,moderate,2
+calcium lactate,2634,moderate,2
+graines de ssame,2631,moderate,2
+enpackagingtobecompleted,2628,moderate,2
+gistextract,2619,moderate,2
+mustard flour,2614,safe,1
+tapioca syrup,2608,moderate,2
+cebolla,2601,moderate,2
+coco,2589,moderate,2
+graisse de palme,2586,moderate,2
+invertzuckersirup,2582,moderate,2
+weizenstrke,2581,moderate,2
+torula yeast,2568,moderate,2
+taurine,2566,moderate,2
+niacine,2564,moderate,2
+betacarotene,2554,safe,1
+lime juice,2554,moderate,2
+sodium lactate,2553,moderate,2
+pices et plantes aromatiques,2553,moderate,2
+acidulante,2552,moderate,2
+ananas,2549,moderate,2
+sodium tripolyphosphate,2539,moderate,2
+extractives of paprika,2537,moderate,2
+polydextrose,2533,moderate,2
+tocopherols,2526,moderate,2
+glatine,2525,moderate,2
+natural flavorings,2521,moderate,2
+unbleached enriched flour,2506,moderate,2
+sesame,2502,safe,1
+palma,2500,moderate,2
+partially hydrogenated soybean oil,2499,hazardous,4
+cellulose gel,2493,moderate,2
+potassium lactate,2490,moderate,2
+natural flavours,2485,moderate,2
+backtriebmittel,2470,moderate,2
+pomme de terre,2458,moderate,2
+invert sugar syrup,2449,moderately high,3
+pasta de cacao,2445,moderate,2
+suola,2441,moderate,2
+raising agent,2438,moderate,2
+tapioca dextrin,2437,moderate,2
+including cereals containing gluten,2434,moderate,2
+oat fiber,2431,safe,1
+pasteurized partskim milk,2429,safe,1
+natural flavourings,2426,moderate,2
+kleurstof,2425,moderate,2
+cream cheese,2422,safe,1
+hefeextrakt,2416,moderate,2
+tbhq,2415,hazardous,4
+peas,2410,safe,1
+organic sunflower oil,2407,moderate,2
+sorbitan monostearate,2406,moderate,2
+muscade,2406,moderate,2
+crme frache,2385,moderate,2
+natural vanilla flavor,2384,moderate,2
+enpackagingcodetobecompleted,2384,moderate,2
+corn maltodextrin,2383,moderately high,3
+brown rice syrup,2359,moderate,2
+milk powder,2354,moderate,2
+enpackagingcodecompleted,2352,moderate,2
+citroenzuur,2349,moderate,2
+semolina,2347,moderate,2
+natural artificial flavors,2346,moderate,2
+pumpkin seeds,2343,moderate,2
+farina di frumento,2342,moderate,2
+hydrogenated palm kernel oil,2340,moderate,2
+antioxidationsmittel ascorbinsure,2339,moderate,2
+salmo salar,2335,moderate,2
+potato flour,2334,safe,1
+pfeffer,2326,moderate,2
+cukr,2323,moderate,2
+hydrolyzed corn protein,2315,safe,1
+ssame,2313,moderate,2
+shrimp,2313,safe,1
+popcorn,2311,moderate,2
+graisses vgtales,2302,moderate,2
+lemon,2297,safe,1
+palm fat,2297,moderate,2
+suisse,2293,moderate,2
+enriched bleached wheat flour,2288,safe,1
+brands completed,2286,moderate,2
+sureregulator,2285,moderate,2
+lecitina de soja,2284,moderate,2
+dough conditioner,2283,moderate,2
+sucrose,2282,moderate,2
+sorbate de potassium,2280,moderate,2
+mandeln,2279,moderate,2
+knoflook,2278,moderate,2
+smolkenpulver,2274,moderate,2
+poireau,2273,moderate,2
+vitamins,2273,moderate,2
+rosemary,2270,moderate,2
+niacina,2269,moderate,2
+sel de cuisine iod,2269,moderate,2
+conservateur sorbate de potassium,2267,moderate,2
+red bell pepper,2261,safe,1
+lactosrum,2260,moderate,2
+carbonate acide de sodium,2260,moderate,2
+origine ue,2257,moderate,2
+vegetable glycerin,2254,moderate,2
+estabilizantes,2254,moderate,2
+dates,2253,moderate,2
+farbstoff,2248,moderate,2
+malt dorge,2247,moderate,2
+sel de gurande,2247,moderate,2
+farine de froment,2245,moderate,2
+amidon transform de mas,2243,moderate,2
+powdered cellulose,2243,moderate,2
+zinc,2242,moderate,2
+chalote,2241,moderate,2
+brown rice flour,2238,safe,1
+weizen,2235,moderate,2
+contains or less of salt,2228,safe,1
+paississant gomme xanthane,2226,moderate,2
+rolled oats,2221,moderate,2
+estabilizante,2208,moderate,2
+carraghnanes,2207,moderate,2
+herbs,2204,moderate,2
+vegetable fats,2202,moderate,2
+granulated garlic,2202,safe,1
+rennet,2199,moderate,2
+kochsalz,2199,moderate,2
+cholecalciferol,2198,moderate,2
+alcool,2198,moderate,2
+red bell peppers,2198,moderate,2
+emulgatoren,2196,moderate,2
+laurier,2193,moderate,2
+sokeri,2193,moderate,2
+peanut,2184,safe,1
+extraits dpices,2178,moderate,2
+whole grain oats,2174,moderate,2
+sour cream,2174,safe,1
+iodized salt,2168,safe,1
+organic wheat flour,2168,safe,1
+correcteur dacidit acide citrique,2168,moderate,2
+antioxidationsmittel,2165,moderate,2
+mayonnaise,2161,moderate,2
+malt,2154,moderate,2
+bacterial culture,2153,moderate,2
+conservador,2149,moderate,2
+white wine vinegar,2148,moderate,2
+corn meal,2145,safe,1
+l bulgaricus,2144,moderate,2
+colors,2142,moderate,2
+cottonseed oil,2137,moderate,2
+farine de graines de caroube,2135,moderate,2
+cherries,2133,moderate,2
+oignon en poudre,2127,moderate,2
+vitamines,2127,moderate,2
+anticaking agent,2123,moderate,2
+gist,2123,moderate,2
+mozzarella cheese,2122,safe,1
+milk protein,2119,safe,1
+de lait,2116,moderate,2
+senf,2115,moderate,2
+green beans,2114,moderate,2
+konserveringsmiddel,2110,moderate,2
+enpackagingcompleted,2108,moderate,2
+bicarbonate de sodium,2101,moderate,2
+cucumbers,2101,moderate,2
+magnesium oxide,2094,moderate,2
+egg white,2094,safe,1
+extrait de paprika,2090,moderate,2
+unbleached wheat flour,2085,safe,1
+product name completed,2082,moderate,2
+chili powder,2079,moderate,2
+concentr de tomate,2070,moderate,2
+spirulina,2068,moderate,2
+buttermilk powder,2063,moderate,2
+paississants,2060,moderate,2
+pflanzliche le,2059,moderate,2
+limonene,2058,moderate,2
+natuurlijke aromas,2058,moderate,2
+whole grain rolled oats,2055,moderate,2
+ferric orthophosphate,2050,moderate,2
+front photo selected,2050,moderate,2
+quinoa,2048,safe,1
+olives,2048,moderate,2
+sauce,2046,moderate,2
+sellerie,2045,moderate,2
+concentr de tomates,2042,moderate,2
+amidon modifi de pomme de terre,2041,moderate,2
+ciboulette,2040,moderate,2
+johannisbrotkernmehl,2038,moderate,2
+contient alcool,2037,moderate,2
+annatto color,2036,moderate,2
+contains milk,2035,safe,1
+aardappelzetmeel,2034,moderate,2
+enphotosuploaded entobecompleted,2034,moderate,2
+enphotosuploaded to be completed,2034,moderate,2
+lcithine de tournesol,2033,moderate,2
+burro di cacao,2032,moderate,2
+xylitol,2024,safe,1
+arome,2024,moderate,2
+natriumcarbonate,2021,moderate,2
+riboflavina,2018,moderate,2
+romano cheese,2018,safe,1
+characteristics to be completed,2018,moderate,2
+pasteurized cream,2016,safe,1
+organic garlic,2008,safe,1
+karotten,2006,moderate,2
+raapzaadolie,1998,moderate,2
+sciroppo di glucosio,1997,moderate,2
+tapioca,1990,moderate,2
+romarin,1986,moderate,2
+sahne,1985,moderate,2
+coffee,1983,safe,1
+ajo,1977,moderate,2
+fruit pectin,1972,moderate,2
+chilli powder,1972,moderate,2
+eau gazifie,1971,moderate,2
+destrosio,1971,moderate,2
+sodium hydroxide,1970,moderate,2
+sodium hexametaphosphate,1969,moderate,2
+brown rice,1966,safe,1
+roasted peanuts,1964,moderate,2
+nutrition facts completed,1962,moderate,2
+stabilisatoren,1961,moderate,2
+methylcellulose,1960,moderate,2
+mulsifiant mono et diglycrides dacides gras,1960,moderate,2
+sodium carbonates,1956,moderate,2
+sodium propionate,1955,moderate,2
+milk protein isolate,1953,safe,1
+rice vinegar,1952,moderate,2
+dough conditioners,1951,moderate,2
+soy lecithin an emulsifier,1949,moderate,2
+carbonate de calcium,1944,moderate,2
+potassium iodide,1940,moderate,2
+aromi naturali,1933,moderate,2
+acacia gum,1932,moderate,2
+mushrooms,1930,moderate,2
+culture,1923,moderate,2
+vinaigre de vin,1921,moderate,2
+origins to be completed,1921,moderate,2
+lecitina de soya,1918,moderate,2
+strawberry,1916,safe,1
+azucar,1916,moderate,2
+flavours,1916,moderate,2
+peaches,1911,moderate,2
+l acidophilus,1910,moderate,2
+chocolate chips,1903,safe,1
+stabilizers,1903,moderate,2
+fettarmes kakaopulver,1902,moderate,2
+rapsolje,1901,moderate,2
+orge,1897,moderate,2
+cloves,1897,moderate,2
+soluble corn fiber,1895,safe,1
+tamarind,1894,safe,1
+magnesium stearate,1890,moderate,2
+kokosfett,1889,moderate,2
+red peppers,1889,moderate,2
+graisse vgtale,1886,moderate,2
+gerstenmalzextrakt,1881,moderate,2
+molkenerzeugnis,1876,moderate,2
+white wine,1875,moderate,2
+poudre de cacao,1874,moderate,2
+malt extract,1868,moderate,2
+thiamin hydrochloride,1867,moderate,2
+whole grain wheat,1864,safe,1
+butter oil,1862,moderate,2
+chickpeas,1861,moderate,2
+oleoresin of paprika,1857,moderate,2
+inositol,1855,moderate,2
+high oleic sunflower oil,1854,moderate,2
+lime juice concentrate,1853,moderate,2
+zuursel,1848,moderate,2
+protein blend,1846,moderate,2
+expeller pressed canola oil,1846,moderate,2
+kaliumsorbat,1845,moderate,2
+mono and diglycerides of fatty acids,1842,moderate,2
+linalool,1842,moderate,2
+kruiden,1842,moderate,2
+acidity regulator citric acid,1840,moderate,2
+s thermophilus,1840,moderate,2
+acide lactique,1838,moderate,2
+almidn modificado,1838,moderate,2
+oil,1837,moderate,2
+soy lecithin emulsifier,1837,moderate,2
+zuurteregelaar,1836,moderate,2
+red wine vinegar,1835,moderate,2
+tomatenmark,1832,moderate,2
+farine de mas,1830,moderate,2
+moutarde de dijon,1830,moderate,2
+garlic puree,1826,safe,1
+noix de coco,1825,moderate,2
+conservante,1824,moderate,2
+tapioca flour,1823,moderate,2
+categories completed,1823,moderate,2
+pure cane sugar,1817,moderately high,3
+extrait de vanille,1808,moderate,2
+chicken breast,1800,safe,1
+karamellzuckersirup,1799,moderate,2
+chilli,1799,safe,1
+mechanically separated chicken,1798,safe,1
+quantity completed,1796,moderate,2
+millet,1795,moderate,2
+jedl sl,1794,moderate,2
+acide malique,1790,moderate,2
+acesulfam k,1784,moderate,2
+shortening,1779,moderate,2
+antioxidationsmittel natriumascorbat,1778,moderate,2
+pantothenic acid,1773,moderate,2
+tree nuts,1773,moderate,2
+white vinegar,1771,moderate,2
+curcumin,1764,moderate,2
+tocopherol,1759,safe,1
+verdickungsmittel guarkernmehl,1759,moderate,2
+shellac,1755,moderate,2
+sare,1754,moderate,2
+dehydrated onions,1753,moderate,2
+riboflavine,1752,moderate,2
+gelling agent,1749,moderate,2
+photos to be validated,1747,moderate,2
+cido flico,1746,moderate,2
+phenoxyethanol,1744,moderate,2
+spice extractives,1744,safe,1
+mono und diglyceride von speisefettsuren,1742,moderate,2
+sonnenblume,1737,moderate,2
+pflanzliche fette,1736,moderate,2
+maize,1736,safe,1
+maple syrup,1736,moderate,2
+enriched wheat flour wheat flour,1736,safe,1
+tomato pure,1733,safe,1
+huile de coco,1732,moderate,2
+amidon de tapioca,1729,moderate,2
+zwiebel,1729,moderate,2
+fortified wheat flour,1724,safe,1
+barley malt,1724,safe,1
+cured with water,1722,safe,1
+surhetsregulerende middel,1721,moderate,2
+conservateurs,1719,moderate,2
+pasteurized milk and cream,1718,safe,1
+packaging photo to be selected,1717,moderate,2
+fragrance,1711,moderate,2
+zonnebloem,1711,moderate,2
+acidifiants,1709,moderate,2
+lactose et protines de lait,1709,moderate,2
+sungsmittel,1708,moderate,2
+cabbage,1706,safe,1
+krydder,1703,moderate,2
+lait en poudre,1702,moderate,2
+fat reduced cocoa powder,1701,moderate,2
+sodium metabisulfite,1700,moderate,2
+acide folique,1697,moderate,2
+dried cranberries,1697,moderate,2
+cacaoboter,1697,moderate,2
+hydrogenated vegetable oil,1696,moderate,2
+verdikkingsmiddel,1696,moderate,2
+cultured dextrose,1693,moderately high,3
+thiamin mononitrate vitamin b,1693,moderate,2
+chicory root fiber,1692,moderate,2
+unsalted butter,1690,safe,1
+milchzucker,1688,moderate,2
+expiration date to be completed,1687,moderate,2
+zetmeel,1684,moderate,2
+lait de vache pasteuris,1683,moderate,2
+diphosphate,1682,moderately high,3
+ingredients completed,1681,moderate,2
+lcithines,1679,moderate,2
+fcule de manioc,1675,moderate,2
+amidon de mais,1673,moderate,2
+sucralosa,1672,moderate,2
+heavy cream,1672,safe,1
+haselnsse,1672,moderate,2
+soia,1671,moderate,2
+citrate de sodium,1670,moderate,2
+coprah,1669,moderate,2
+almidn de maz,1667,moderate,2
+tomaten,1666,moderate,2
+dill,1664,moderate,2
+chicken stock,1656,safe,1
+thickeners,1652,moderate,2
+ammonium sulfate,1640,moderate,2
+safflower,1640,moderate,2
+vanille,1640,moderate,2
+nuts,1638,moderate,2
+sodium carbonate,1637,moderate,2
+turmeric extract,1633,moderate,2
+bouillon,1633,moderate,2
+fer,1631,moderate,2
+dicalcium phosphate,1631,moderately high,3
+sorbato de potasio,1631,moderate,2
+soy protein,1630,safe,1
+raspberries,1626,moderate,2
+hierro,1624,moderate,2
+laktose,1621,moderate,2
+organic spices,1621,moderate,2
+microcrystalline cellulose,1620,moderate,2
+sweetened condensed milk,1620,safe,1
+fdc yellow,1620,moderate,2
+vanilline,1619,moderate,2
+zwiebelpulver,1618,moderate,2
+bicarbonato de sodio,1613,moderate,2
+regulador de acidez,1613,moderate,2
+black beans,1610,moderate,2
+monoand diglycerides,1610,moderate,2
+lemon oil,1604,moderate,2
+cukor,1601,moderate,2
+tomato concentrate,1597,moderate,2
+sulphites,1595,moderate,2
+lgumes,1592,moderate,2
+jus concentr de citron,1589,moderate,2
+sodium benzoate and potassium sorbate,1587,hazardous,4
+pitn voda,1582,moderate,2
+traubenzucker,1581,moderate,2
+jaune doeuf,1579,moderate,2
+organic honey,1578,safe,1
+huevo,1576,moderate,2
+cardamom,1576,safe,1
+cultured wheat flour,1576,safe,1
+coconut milk,1574,safe,1
+rye flour,1574,moderate,2
+zimt,1570,moderate,2
+acid citric acid,1568,moderate,2
+gum base,1568,moderate,2
+arachides,1565,moderate,2
+gemodificeerd maszetmeel,1564,moderate,2
+eer,1561,moderate,2
+glifiant,1558,moderate,2
+nitrite de sodium,1558,hazardous,4
+smoked paprika,1552,moderate,2
+speck,1549,moderate,2
+flavors,1548,moderate,2
+bacon,1547,moderate,2
+natural colour,1547,moderate,2
+oat flour,1544,safe,1
+rauch,1537,moderate,2
+orange juice concentrate,1537,moderate,2
+honig,1536,moderate,2
+orange peel,1535,safe,1
+natural artificial flavor,1535,moderately high,3
+fdc red,1535,moderate,2
+malted barley,1533,safe,1
+pice,1532,moderate,2
+antioxidants,1531,moderate,2
+cheese,1530,safe,1
+noix,1528,moderate,2
+arme de fume,1526,moderate,2
+fruit,1525,moderate,2
+gelatina,1521,moderate,2
+karit,1521,moderate,2
+a natural mold inhibitor,1521,moderate,2
+calcium caseinate,1520,moderate,2
+tiamina,1520,moderate,2
+cacao maigre,1519,moderate,2
+monk fruit extract,1518,moderate,2
+vegetable juice,1514,moderate,2
+flavour enhancer,1512,moderate,2
+dehydrated parsley,1512,moderate,2
+vegetable color,1509,moderate,2
+grasa vegetal,1509,moderate,2
+modified milk ingredients,1507,moderate,2
+pasta di cacao,1505,moderate,2
+gemodificeerd zetmeel,1505,moderate,2
+milcheiwei,1504,moderate,2
+cauliflower,1504,safe,1
+acido citrico,1499,moderate,2
+vitamine c,1498,moderate,2
+ingredients photo selected,1497,moderate,2
+de soja,1495,moderate,2
+gluten de ble,1491,moderate,2
+enriched flour wheat flour,1491,safe,1
+leche desnatada en polvo,1488,moderate,2
+edulcorante,1487,moderate,2
+olej rzepakowy,1483,moderate,2
+goma xantana,1480,moderate,2
+ins,1480,moderate,2
+diced tomatoes,1478,moderate,2
+fromage,1477,moderate,2
+jaune duf,1477,moderate,2
+carrageen,1476,moderate,2
+cassis,1473,moderate,2
+thiamine hydrochloride,1467,moderate,2
+ascorbinsure,1467,moderate,2
+disodium inosinate and disodium guanylate,1467,moderately high,3
+butter cream,1466,safe,1
+acidifiant e,1465,moderate,2
+hvetemel,1464,moderate,2
+hartweizengrie,1460,moderate,2
+pineapple juice concentrate,1456,moderate,2
+caglio,1456,moderate,2
+mustard seeds,1454,safe,1
+mikrobielles lab,1454,moderate,2
+contains one or more of the following corn,1452,safe,1
+lecithins,1451,moderate,2
+inuline,1449,moderate,2
+organic lemon juice concentrate,1448,moderate,2
+aroma natural,1448,moderate,2
+organic cocoa butter,1445,safe,1
+ingwer,1444,moderate,2
+dulcorants,1443,moderate,2
+jarabe de glucosa y fructosa,1439,moderate,2
+milkfat and nonfat milk,1437,safe,1
+jalapeno pepper,1436,safe,1
+almidn,1435,moderate,2
+antioxidantes,1435,moderate,2
+zeezout,1435,moderate,2
+oligofructose,1434,moderate,2
+ennutritionphototobeselected,1434,moderate,2
+kale,1433,moderate,2
+to prevent caking,1431,moderate,2
+stevia extract,1430,moderate,2
+amidon transform,1429,moderate,2
+sage,1429,moderate,2
+nutrition photo selected,1427,moderate,2
+food acid,1424,moderate,2
+cocamidopropyl betaine,1423,moderate,2
+cream of tartar,1419,safe,1
+contains less than of salt,1414,safe,1
+lemon peel,1414,safe,1
+lemon juice from concentrate,1410,moderate,2
+mulsifiant lcithine de tournesol,1408,moderate,2
+zahr,1408,moderate,2
+pumpkin,1407,moderate,2
+cido ascrbico,1404,moderate,2
+spice extracts,1404,safe,1
+bread crumbs,1404,moderate,2
+butterfat,1399,moderate,2
+organic onion powder,1392,moderate,2
+disodium diphosphate,1391,moderately high,3
+ginger pure,1390,safe,1
+apple juice from concentrate,1388,moderate,2
+stevia,1385,safe,1
+chia seeds,1384,safe,1
+basilikum,1380,moderate,2
+harina de arroz,1380,moderate,2
+glycrol,1378,moderate,2
+spezie,1376,moderate,2
+plantaardige olin,1375,moderate,2
+pasteurized part skim milk,1374,safe,1
+eningredientstobecompleted,1374,moderate,2
+fraise,1371,moderate,2
+yogurt,1370,moderate,2
+glifiant pectines,1369,moderate,2
+calcium silicate,1368,moderate,2
+beef stock,1368,moderate,2
+strawberry puree,1367,safe,1
+sodium selenite,1366,moderate,2
+enexpirationdatecompleted,1362,moderate,2
+dcalcium pantothenate,1361,moderate,2
+oleoresin paprika,1360,moderate,2
+voedingszuur citroenzuur,1360,moderate,2
+contains gluten,1358,moderate,2
+maize flour,1358,safe,1
+sesam,1357,moderate,2
+dried parsley,1354,moderate,2
+plantaardige olie,1351,moderate,2
+eningredientsphototobeselected,1350,moderate,2
+chlorure de potassium,1349,moderate,2
+mozzarella,1345,moderate,2
+organic garlic powder,1344,moderate,2
+emulgator mono und diglyceride von speisefettsuren,1344,moderate,2
+glatine de porc,1344,moderate,2
+a b vitamin,1342,moderate,2
+gerstenmalz,1342,moderate,2
+flour treatment agent,1341,moderate,2
+diphosphate disodique,1340,moderately high,3
+steviol glycosides,1339,moderate,2
+konservierungsstoff,1339,moderate,2
+latte scremato in polvere,1338,moderate,2
+cider vinegar,1338,moderate,2
+grape juice concentrate,1337,moderate,2
+organic tapioca syrup,1337,moderate,2
+sucre caramlis,1337,moderate,2
+vitamina b,1336,moderate,2
+apfel,1336,moderate,2
+vinaigre de vin blanc,1336,moderate,2
+farine de bl malt,1335,moderate,2
+a milk derivative,1335,safe,1
+gasificantes,1333,moderate,2
+lievito,1332,moderate,2
+edulcorantes,1332,moderate,2
+beeswax,1331,moderate,2
+peppers,1331,moderate,2
+spice extract,1330,moderate,2
+celery powder,1329,moderate,2
+chalotes,1329,moderate,2
+contient gluten,1328,moderate,2
+natriumcitrate,1326,moderate,2
+glazing agent,1326,moderate,2
+potassium phosphate,1325,moderately high,3
+ester gum,1325,moderate,2
+emmental,1325,moderate,2
+nonfat milk powder,1324,moderate,2
+dulcorant,1323,moderate,2
+pectina,1323,moderate,2
+isomalt,1323,moderate,2
+emulsifier lecithins,1322,moderate,2
+dried whey,1320,moderate,2
+kakaopulver,1319,moderate,2
+invertase,1319,moderate,2
+ble,1318,moderate,2
+green onion,1318,safe,1
+espesante,1317,moderate,2
+cacaomassa,1316,moderate,2
+apple juice,1314,safe,1
+packaging to be completed,1314,moderate,2
+tartrazine,1311,moderately high,3
+clove,1310,safe,1
+tarwegluten,1309,moderate,2
+pasteurized cows milk,1309,safe,1
+noix de cajou,1306,moderate,2
+amidon de mas modifi,1305,moderate,2
+antioxydants,1301,moderate,2
+antioxydant rythorbate de sodium,1298,moderate,2
+aromaty,1297,moderate,2
+protines de soja,1295,moderate,2
+poitrine de porc,1295,moderate,2
+lactase,1294,moderate,2
+powdered sugar,1294,moderately high,3
+sodium aluminum sulfate,1291,moderate,2
+safflower oil,1290,moderate,2
+fennel,1290,safe,1
+sucres,1282,moderate,2
+roasted garlic,1282,safe,1
+karotte,1278,moderate,2
+olio di girasole,1278,moderate,2
+goma guar,1277,moderate,2
+farine de seigle,1277,moderate,2
+knoblauchpulver,1275,moderate,2
+rohrzucker,1274,moderate,2
+worcestershire sauce,1273,moderate,2
+avoine,1272,moderate,2
+matire grasse vgtale,1272,moderate,2
+isolated soy protein,1272,safe,1
+graisse de canard,1272,moderate,2
+burro,1270,moderate,2
+vitamin b riboflavin,1270,moderate,2
+cows milk,1269,safe,1
+milk proteins,1268,safe,1
+magere melkpoeder,1267,moderate,2
+hibiscus,1266,moderate,2
+rohrohrzucker,1265,moderate,2
+vitamina c,1263,moderate,2
+sitronsyre,1263,moderate,2
+soya flour,1262,moderate,2
+monterey jack cheese,1262,safe,1
+carotenes,1261,moderate,2
+ksereikulturen,1261,moderate,2
+potato flakes,1260,safe,1
+beef fat,1259,moderate,2
+poudre de lait,1258,moderate,2
+white distilled vinegar,1255,moderate,2
+conservadores,1255,moderate,2
+mono et diglycrides dacides gras,1254,moderate,2
+curry,1254,moderate,2
+poivrons,1251,moderate,2
+poulet,1251,moderate,2
+poivron rouge,1250,moderate,2
+disodium edta,1250,hazardous,4
+vinagre,1248,moderate,2
+firming agent,1247,moderate,2
+aromat,1243,moderate,2
+distilled white vinegar,1242,moderate,2
+gomme de guar,1240,moderate,2
+paprika oleoresin,1237,moderate,2
+almond,1235,safe,1
+medium chain triglycerides,1232,moderate,2
+mulsifiant e,1229,moderate,2
+pistachios,1229,moderate,2
+benzyl alcohol,1228,moderate,2
+sodium bisulfite,1225,moderate,2
+poppy seeds,1225,moderate,2
+aceite de oliva,1225,moderate,2
+celery seed,1222,moderate,2
+turkey,1222,moderate,2
+gomme arabique,1221,moderate,2
+carbonates dammonium,1220,moderate,2
+przyprawy,1220,moderate,2
+masse de cacao,1218,moderate,2
+farine de soja,1217,moderate,2
+distilled monoglycerides,1217,moderate,2
+whole grain oat flour,1217,safe,1
+sweet potato,1216,safe,1
+as a preservative,1216,moderately high,3
+fruit and vegetable juice,1215,moderate,2
+sucre inverti,1213,moderate,2
+wortel,1213,moderate,2
+vitaminas,1211,moderate,2
+framboise,1210,moderate,2
+whole grain wheat flour,1210,safe,1
+milchsure,1209,moderate,2
+amylase,1208,moderate,2
+turkey breast,1208,moderate,2
+lcysteine,1208,moderate,2
+smoke flavoring,1205,moderate,2
+organic vanilla extract,1205,moderate,2
+mannitol,1204,moderate,2
+vegetables,1203,moderate,2
+poireaux,1203,moderate,2
+natural vanilla extract,1202,moderate,2
+maszetmeel,1201,moderate,2
+weipoeder,1201,moderate,2
+gember,1199,moderate,2
+anchovies,1198,moderate,2
+manganese sulfate,1197,moderate,2
+sodium metabisulphite,1196,moderately high,3
+raspberry,1195,moderate,2
+farine,1195,moderate,2
+packaging code to be completed,1192,moderate,2
+chives,1191,moderate,2
+soybean lecithin,1190,moderate,2
+carbon dioxide,1190,moderate,2
+soya lecithins,1190,moderate,2
+beurre ptissier,1190,moderate,2
+durum flour,1187,moderate,2
+girasol,1184,moderate,2
+coloring,1183,moderate,2
+calcium stearate,1182,moderate,2
+balsamic vinegar,1181,moderate,2
+cucumber,1180,moderate,2
+tahini,1180,moderate,2
+rapsolja,1180,moderate,2
+koolzaadolie,1178,moderate,2
+extract,1177,moderate,2
+organic brown rice syrup,1176,moderate,2
+packaging code completed,1176,moderate,2
+sojalecithine,1172,moderate,2
+cacao en polvo,1168,moderate,2
+correcteurs dacidit,1167,moderate,2
+raisins secs,1163,moderate,2
+trisodium phosphate,1163,moderately high,3
+uova,1163,moderate,2
+grain vinegar,1163,moderate,2
+champignons,1162,moderate,2
+fargestoff,1160,moderate,2
+houblon,1160,moderate,2
+knoflookpoeder,1160,moderate,2
+foie gras de canard,1160,moderate,2
+wine vinegar,1159,moderate,2
+polyglycerol esters of fatty acids,1157,moderate,2
+sojalecithin,1156,moderate,2
+vitamine b,1155,moderate,2
+tkezsi s,1155,moderate,2
+conservateur e,1155,moderate,2
+zanahoria,1154,moderate,2
+andor sunflower oil,1154,moderate,2
+partially hydrogenated palm kernel oil,1152,hazardous,4
+armagnac,1149,moderate,2
+potassium carbonate,1147,moderate,2
+dextrose de bl,1147,moderately high,3
+curcumine,1146,moderate,2
+hvitlk,1144,moderate,2
+citronellol,1144,moderate,2
+enquantitytobecompleted,1144,moderate,2
+banana,1143,safe,1
+flavour enhancers,1143,moderate,2
+leche entera en polvo,1143,moderate,2
+natrliches mineralwasser,1142,moderate,2
+sodium molybdate,1141,moderate,2
+potassium sorbate and sodium benzoate,1141,hazardous,4
+flaxseed,1140,moderate,2
+skimmed milk,1139,safe,1
+rye,1138,moderate,2
+milk chocolate sugar,1136,moderately high,3
+iii,1135,moderate,2
+amido di mais,1134,moderate,2
+acids,1134,moderate,2
+peterselie,1133,moderate,2
+palmitate,1132,moderate,2
+sel iod,1131,moderate,2
+weizengluten,1130,moderate,2
+wrze,1129,moderate,2
+enriched wheat flour flour,1126,safe,1
+rhum,1126,moderate,2
+vitamina a,1125,moderate,2
+witte peper,1124,moderate,2
+coconut cream,1123,safe,1
+anthocyanins,1123,moderate,2
+crust,1120,moderate,2
+jus de citron base de concentr,1120,moderate,2
+colorantes,1117,moderate,2
+kartoffeln,1117,moderate,2
+beet powder,1116,moderate,2
+organic black pepper,1115,safe,1
+extrait dpices,1114,moderate,2
+organic coconut oil,1111,moderate,2
+protine de lait,1111,moderate,2
+white chocolate,1109,safe,1
+to retain moisture,1109,moderate,2
+vinegar powder,1109,moderate,2
+sauce soja,1108,moderate,2
+emulsifier soya lecithin,1105,moderate,2
+lait crm rhydrat,1103,moderate,2
+pantothensure,1102,moderate,2
+konserveringsmedel,1102,moderate,2
+maismehl,1101,moderate,2
+creme,1101,moderate,2
+to promote color retention,1100,moderate,2
+coagulant,1099,moderate,2
+pgpr,1098,moderate,2
+fractionated palm kernel oil,1096,moderate,2
+organic extra virgin olive oil,1095,moderate,2
+tocopheryl acetate,1095,moderate,2
+sojabohnen,1091,moderate,2
+glucosefructosestroop,1091,moderate,2
+encategoriestobecompleted,1090,moderate,2
+green tea,1089,safe,1
+dehydrated vegetables,1089,moderate,2
+vitamin b thiamin mononitrate,1086,moderate,2
+stabilisator diphosphate,1083,moderately high,3
+cornichons,1083,moderate,2
+reis,1082,moderate,2
+blackcurrant,1082,moderate,2
+banana puree,1081,safe,1
+toppercentscans,1080,moderate,2
+pectines,1078,moderate,2
+soy oil,1078,moderate,2
+partially hydrogenated vegetable oil,1078,hazardous,4
+pure de tomates,1077,moderate,2
+feuchthaltemittel,1077,moderate,2
+lime,1076,moderate,2
+tarwezetmeel,1076,moderate,2
+wheat protein,1075,safe,1
+cheddar cheese pasteurized milk,1075,safe,1
+amidons,1075,moderate,2
+aardappel,1073,moderate,2
+peanut flour,1072,safe,1
+lupin,1072,moderate,2
+organic onions,1071,moderate,2
+acide pantothnique,1070,moderate,2
+chromium chloride,1070,moderate,2
+cheese powder,1068,moderate,2
+natural butter flavor,1068,moderate,2
+liquid sugar,1068,moderately high,3
+poivrons rouges,1067,moderate,2
+sulfur dioxide,1066,moderate,2
+ground black pepper,1065,safe,1
+fermentos lcticos,1065,moderate,2
+natriumhydrogencarbonat,1065,moderate,2
+stearic acid,1063,moderate,2
+peppermint oil,1063,moderate,2
+natrliches vanillearoma,1062,moderate,2
+sodium laureth sulfate,1062,moderate,2
+tetrasodium pyrophosphate,1057,moderate,2
+emulgentes,1057,moderate,2
+farina di riso,1056,moderate,2
+blanc doeuf,1056,moderate,2
+sciroppo di glucosiofruttosio,1056,moderate,2
+volle melkpoeder,1055,moderate,2
+packaging completed,1054,moderate,2
+zinc sulfate,1053,moderate,2
+silica,1053,moderate,2
+cetearyl alcohol,1052,moderate,2
+ricotta cheese,1052,safe,1
+petits pois,1051,moderate,2
+raapzaad,1047,moderate,2
+seigle,1046,moderate,2
+biotine,1045,moderate,2
+nicotinamide,1042,moderate,2
+bifidus,1042,moderate,2
+dried onions,1041,moderate,2
+gluten de trigo,1041,moderate,2
+soybean andor canola oil,1041,moderate,2
+eigelb,1041,moderate,2
+dimethicone,1040,moderate,2
+microbial enzymes,1040,moderate,2
+cire de carnauba,1040,moderate,2
+potassium,1038,moderate,2
+organic tomato paste,1038,safe,1
+surhetsreglerande medel,1038,moderate,2
+organic soybeans,1037,moderate,2
+chicken breast with rib meat,1037,safe,1
+flocons davoine,1036,moderate,2
+contient sulfites,1035,moderate,2
+lait demicrm,1035,moderate,2
+fenouil,1033,moderate,2
+sodium,1032,moderate,2
+less than of salt,1031,safe,1
+graines de tournesol,1031,moderate,2
+sureregulator natriumacetate,1030,moderate,2
+pineapple juice,1030,safe,1
+streptococcus thermophilus,1030,moderate,2
+buttermilk solids,1029,moderate,2
+organic whole wheat flour,1029,safe,1
+blueberry,1028,moderate,2
+for tartness,1028,moderate,2
+flax seeds,1028,moderate,2
+gejodeerd zout,1028,moderate,2
+allspice,1027,moderate,2
+cultured cream,1027,safe,1
+bleached enriched wheat flour,1027,safe,1
+carragenina,1025,moderate,2
+maltitol syrup,1023,moderate,2
+chickpea flour,1023,safe,1
+poudre de lactosrum,1021,moderate,2
+aglio,1020,moderate,2
+sal marina,1017,moderate,2
+aroma naturale,1017,moderate,2
+fatreduced cocoa powder,1017,moderate,2
+paprikaextrakt,1017,moderate,2
+dijon mustard,1016,safe,1
+rice syrup,1015,moderate,2
+sodium citrates,1015,moderate,2
+corrector de acidez,1015,moderate,2
+organic vinegar,1015,moderate,2
+trigo,1014,moderate,2
+mangue,1014,moderate,2
+backtriebmittel natriumcarbonate,1013,moderate,2
+potassium iodate,1013,moderate,2
+zitronensaft,1013,moderate,2
+organic guar gum,1011,moderate,2
+sol,1011,moderate,2
+poivron,1010,moderate,2
+vitamin e acetate,1010,moderate,2
+nonfat milk solids,1009,safe,1
+erdnssen,1007,moderate,2
+hopfen,1007,moderate,2
+pektin,1005,moderate,2
+carmine,1004,moderate,2
+farina di grano tenero tipo quot,1004,moderate,2
+sodium hydrogen carbonate,1003,moderate,2
+modified wheat starch,1000,moderate,2
+smoke flavor,1000,moderate,2
+chocolat noir,999,moderate,2
+dry whole milk,999,safe,1
+stabilisant glycrol,998,moderate,2
+poudre doignon,998,moderate,2
+uienpoeder,998,moderate,2
+icing sugar,997,moderately high,3
+sultanas,997,moderate,2
+protines de pois,996,moderate,2
+raisin,994,moderate,2
+chocolat,994,moderate,2
+natriumascorbat,991,moderate,2
+bananas,991,moderate,2
+see ingredients in bold,990,moderate,2
+lemongrass,989,moderate,2
+dried skimmed milk,988,safe,1
+mosterd,987,moderate,2
+poudre de cacao maigre,987,moderate,2
+radish,985,moderate,2
+hexyl cinnamal,984,moderate,2
+zucchini,984,moderate,2
+fenugreek,983,safe,1
+levure dsactive,983,moderate,2
+preservative potassium sorbate,982,moderately high,3
+fibre de bl,981,moderate,2
+cultured nonfat milk,981,safe,1
+pices et aromates,981,moderate,2
+zwarte peper,981,moderate,2
+artificial and natural flavors,980,moderate,2
+clou de girofle,979,moderate,2
+lauch,979,moderate,2
+vand,977,moderate,2
+pommes,976,moderate,2
+agaragar,976,moderate,2
+magnesium chloride,974,moderate,2
+green bell peppers,973,moderate,2
+desiccated coconut,973,safe,1
+kosher salt,972,safe,1
+fdc blue,972,moderate,2
+mineral oil,971,moderate,2
+potassium sorbate preservative,970,moderately high,3
+hydrogenated palm oil,970,moderate,2
+dextrine,969,moderate,2
+lait pasteuris,969,moderate,2
+viande de poulet,969,moderate,2
+eier,969,moderate,2
+fcule,968,moderate,2
+ail dshydrat,967,moderate,2
+modified palm oil,966,moderate,2
+mango puree,966,safe,1
+farine de bl tendre,965,moderate,2
+orange juice,965,safe,1
+kosher gelatin,965,moderate,2
+turkey broth,963,moderate,2
+dried cane syrup,962,moderate,2
+melkeiwit,959,moderate,2
+maltodekstrin,958,moderate,2
+farinha de trigo,958,moderate,2
+lactosa,957,moderate,2
+courgettes,955,moderate,2
+kiwi,955,moderate,2
+vitamine,953,moderate,2
+glifiant carraghnanes,953,moderate,2
+lipase,952,moderate,2
+mleko,952,moderate,2
+palm kernel and palm oil,951,moderate,2
+pear juice concentrate,951,moderate,2
+carthame,950,moderate,2
+organic tapioca starch,949,moderate,2
+cacao desgrasado en polvo,949,moderate,2
+natural vanilla flavouring,948,safe,1
+cocoa powder processed with alkali,948,moderate,2
+cuajo,948,moderate,2
+organic cinnamon,947,safe,1
+zitrone,947,moderate,2
+cheddar cheese milk,947,safe,1
+levure boulangre,947,moderate,2
+chili peppers,947,moderate,2
+arme vanille,946,moderate,2
+iodure de potassium,945,moderate,2
+plain caramel,945,moderate,2
+spring water,944,safe,1
+natriumnitrit,944,moderate,2
+for freshness,943,moderate,2
+thiamine mononitrate vitamin b,943,moderate,2
+ginger powder,943,moderate,2
+horseradish,943,moderate,2
+microbial enzyme,942,moderate,2
+and salt,942,safe,1
+huile de soja,941,moderate,2
+aus milch,939,moderate,2
+leche en polvo,938,moderate,2
+whey solids,938,moderate,2
+verdickungsmittel xanthan,937,moderate,2
+organic onion,936,safe,1
+grape,934,safe,1
+canola andor sunflower oil,934,moderate,2
+hydrogenated soybean oil,934,moderate,2
+rijsmiddel,934,moderate,2
+olive,933,moderate,2
+defatted soy flour,931,safe,1
+salted butter,931,safe,1
+avocado oil,931,moderate,2
+ethyl alcohol,930,moderate,2
+green tea extract,929,moderate,2
+whole egg,929,safe,1
+white rice flour,929,safe,1
+tomatenpulver,929,moderate,2
+exhausteur de got,928,moderate,2
+sirop de sucre caramlis,925,moderate,2
+lecitina de girasol,925,moderate,2
+organic soy lecithin,925,moderate,2
+red onion,924,safe,1
+dextrose de mas,923,moderately high,3
+preserves freshness,923,moderate,2
+magnesium,922,moderate,2
+antioksidant,922,moderate,2
+poudre dail,922,moderate,2
+benzoato de sodio,921,moderate,2
+contains wheat,920,safe,1
+green peas,919,safe,1
+farbstoffe,919,moderate,2
+geraniol,918,moderate,2
+partskim milk,918,safe,1
+banane,917,moderate,2
+agenti lievitanti,917,moderate,2
+minerals,917,moderate,2
+sonnenblumenkerne,915,moderate,2
+crisp rice,915,safe,1
+ascorbate de sodium,915,moderate,2
+aspartam,914,moderate,2
+schwarzer pfeffer,914,moderate,2
+enriched flour bleached,913,moderate,2
+evaporated cane juice,913,moderate,2
+noix de muscade,913,moderate,2
+emulsionantes,913,moderate,2
+cornmeal,912,moderate,2
+organic tomato puree,910,safe,1
+enpackagingphotoselected,910,moderate,2
+avocado,908,moderate,2
+almond butter,907,safe,1
+an artificial flavor,907,moderately high,3
+mulsifiant lcithines de soja,906,moderate,2
+as preservatives,905,moderate,2
+vollmilch,905,moderate,2
+noisette,904,moderate,2
+partially defatted peanut flour,904,safe,1
+wine,903,moderate,2
+rice bran oil,903,moderate,2
+dekstrose,902,moderate,2
+organic apple juice concentrate,902,moderate,2
+flavor enhancer,902,moderate,2
+contient des sulfites,901,moderate,2
+levain,900,moderate,2
+breadcrumbs,899,moderate,2
+dried yeast,899,moderate,2
+zinc gluconate,898,moderate,2
+artificial flavour,898,moderately high,3
+fibres vgtales,897,moderate,2
+salvia hispanica,896,moderate,2
+sodium acetate,896,moderate,2
+starter culture,895,moderate,2
+vitamin a acetate,894,moderate,2
+organic lemon juice,893,safe,1
+polyglycerol polyricinoleate,893,moderate,2
+vitamine d,892,moderate,2
+entrahmte milch,892,moderate,2
+calcium citrate,890,moderate,2
+roggenmehl,890,moderate,2
+peper,890,moderate,2
+enoriginscompleted,890,moderate,2
+kaneel,889,moderate,2
+or canola oil,888,moderate,2
+gewrzextrakt,888,moderate,2
+almidn modificado de maz,888,moderate,2
+modifizierte maisstrke,888,moderate,2
+ginger puree,887,safe,1
+nootmuskaat,887,moderate,2
+malt syrup,886,moderate,2
+green bell pepper,885,safe,1
+azcares aadidos,884,moderate,2
+extracto de levadura,882,moderate,2
+emulsifiant,882,moderate,2
+unbleached enriched wheat flour,880,safe,1
+organic tomatoes,879,moderate,2
+apricots,878,moderate,2
+lard,878,moderate,2
+hydrogenated coconut oil,877,moderate,2
+canola andor soybean oil,877,moderate,2
+riboflavin and folic acid,877,moderate,2
+kaliumiodat,877,moderate,2
+turmeric powder,876,moderate,2
+semola di grano duro,876,moderate,2
+herbes de provence,876,moderate,2
+vitamina d,875,moderate,2
+kj kcal,875,moderate,2
+sardines,875,moderate,2
+eii,875,moderate,2
+menthol,874,moderate,2
+agent denrobage,874,moderate,2
+amande,872,moderate,2
+tomatenpuree,870,moderate,2
+courgette,868,moderate,2
+soy sauce water,868,safe,1
+blanc duf,868,moderate,2
+raapolie,867,moderate,2
+lactoserum en poudre,867,moderate,2
+crushed tomatoes,867,moderate,2
+rosmarin,867,moderate,2
+condensed milk,866,safe,1
+aromes,865,moderate,2
+senfsaaten,865,moderate,2
+citrato de sodio,864,moderate,2
+ensugarsinlowquantity,864,moderate,2
+cipolla,863,moderate,2
+milk ingredients,863,safe,1
+trisodium citrate,862,moderate,2
+fromages,862,moderate,2
+reifekulturen,862,moderate,2
+chocolat au lait,860,moderate,2
+ricotta,859,moderate,2
+kryddor,858,moderate,2
+colorant extrait de paprika,857,moderate,2
+jus de tomate,857,moderate,2
+contains sulfites,857,moderate,2
+panthenol,857,moderate,2
+saumon atlantique,857,moderate,2
+iodised salt,856,safe,1
+pasta,855,moderate,2
+organic almonds,855,moderate,2
+arom,855,moderate,2
+magnesium phosphate,854,moderately high,3
+graham flour,854,moderate,2
+pork fat,854,moderate,2
+emulgeringsmedel,854,moderate,2
+enphotosvalidated,854,moderate,2
+radis,853,moderate,2
+caramelised sugar syrup,853,moderately high,3
+papaya,852,safe,1
+triphosphates,852,moderate,2
+seed oil,852,moderate,2
+selderij,852,moderate,2
+folsure,851,moderate,2
+aceite de oliva virgen extra,851,moderate,2
+oat bran,850,safe,1
+seaweed,849,moderate,2
+herbes,849,moderate,2
+fortykningsmiddel,848,moderate,2
+olivenl,848,moderate,2
+son de bl,848,moderate,2
+graines de soja,848,moderate,2
+koffein,848,moderate,2
+cumin powder,847,moderate,2
+arroz,847,moderate,2
+citronsyra,847,moderate,2
+porc,846,moderate,2
+foie de porc,844,moderate,2
+soy sauce powder,843,moderate,2
+whey protein,842,moderate,2
+powder,842,moderate,2
+eddik,842,moderate,2
+dried glucose syrup,841,moderately high,3
+palmolie,841,moderate,2
+alum,839,moderate,2
+enthlt milch,839,moderate,2
+organic carrots,839,moderate,2
+naturlig aroma,838,moderate,2
+avena,838,moderate,2
+ensaturatedfatinlowquantity,838,moderate,2
+paprikapulver,837,moderate,2
+schnittlauch,837,moderate,2
+spirulina extract,836,moderate,2
+carbonato acido di sodio,836,moderate,2
+sodium nitrate,836,hazardous,4
+yeast extract powder,836,moderate,2
+vanilleextrakt,836,moderate,2
+amidon de ble,835,moderate,2
+amido,835,moderate,2
+potassium bicarbonate,834,moderate,2
+semisweet chocolate,834,safe,1
+carotin,834,moderate,2
+ferrous fumarate,833,moderate,2
+pears,833,moderate,2
+golden syrup,833,moderate,2
+nutriscore,833,moderate,2
+pistaches,832,moderate,2
+raap,832,moderate,2
+suero de leche en polvo,830,moderate,2
+vegetable gum,830,moderate,2
+sedano,829,moderate,2
+melasse,826,moderate,2
+italie,826,moderate,2
+nata,825,moderate,2
+natural,825,moderate,2
+chlorure de calcium,825,moderate,2
+sorbit,825,moderate,2
+agent de traitement de la farine,825,moderate,2
+sulphur dioxide,823,moderately high,3
+dried whole milk,823,safe,1
+propylene glycol alginate,823,hazardous,4
+marjoram,823,moderate,2
+organic soybean oil,822,moderate,2
+diced tomatoes in tomato juice,822,safe,1
+cocoa solids,822,safe,1
+mantequilla,822,moderate,2
+palmvet,821,moderate,2
+matire grasse laitire anhydre,820,moderate,2
+colorant carotnodes,819,moderate,2
+folate,819,moderate,2
+mineral salt,819,safe,1
+siero di latte in polvere,819,moderate,2
+conservantes,818,moderate,2
+organic corn starch,817,moderate,2
+made from corn,815,safe,1
+colorant caramel ordinaire,814,moderate,2
+caprylyl glycol,814,moderate,2
+aromit,813,moderate,2
+tomato sauce,812,safe,1
+acidulante cido ctrico,812,moderate,2
+ennutritionfactstobecompleted,812,moderate,2
+glutamate monosodique,811,moderate,2
+chicken meat,808,safe,1
+agent de traitement de la farine acide ascorbique,808,moderate,2
+spinach powder,807,moderate,2
+lievito di birra,806,moderate,2
+organic apple cider vinegar,805,moderate,2
+oat flakes,805,safe,1
+leche descremada en polvo,805,moderate,2
+colour paprika extract,804,moderate,2
+fresh garlic,804,safe,1
+aceite de girasol alto oleico,804,moderate,2
+minraux,804,moderate,2
+petitlait en poudre,804,moderate,2
+fermenti lattici,802,moderate,2
+maz,802,moderate,2
+vegetable oil shortening,801,moderate,2
+matire grasse de lait anhydre,801,moderate,2
+fenugrec,800,moderate,2
+glucosa,799,moderate,2
+black tea,799,safe,1
+fraises,798,moderate,2
+raspberry puree,798,moderate,2
+aromatizante,797,moderate,2
+calcium peroxide,796,moderate,2
+steinsalz,796,moderate,2
+lutein,795,moderate,2
+glucosesirup,794,moderate,2
+huiles et graisses vgtales,794,moderate,2
+mlasse,793,moderate,2
+arme naturel de citron,793,moderate,2
+magermilch,793,moderate,2
+sirop de glucose dshydrat,793,moderately high,3
+brazil nuts,792,moderate,2
+coconut sugar,791,moderately high,3
+natuurazijn,791,moderate,2
+kokosl,790,moderate,2
+gjr,789,moderate,2
+ocet spirytusowy,789,moderate,2
+celeri,789,moderate,2
+citrates de sodium,789,moderate,2
+durum wheat flour,788,safe,1
+ensalt,788,moderate,2
+thymian,787,moderate,2
+enthlt soja,786,moderate,2
+fruits,786,moderate,2
+ground cinnamon,786,safe,1
+pektine,786,moderate,2
+topcountryfrscans,786,moderate,2
+acacia,785,moderate,2
+sahnepulver,785,moderate,2
+beetroot red,783,moderate,2
+paprikapoeder,783,moderate,2
+mka pszenna,782,moderate,2
+rijstebloem,782,moderate,2
+emulsificante,781,moderate,2
+granulated onion,780,safe,1
+monopotassium phosphate,780,moderately high,3
+ennonvegan,780,moderate,2
+andor canola oil,779,moderate,2
+pure dail,779,moderate,2
+natriumacetate,778,moderate,2
+organic natural flavor,777,moderate,2
+green peppers,777,moderate,2
+organic canola oil,777,moderate,2
+hydrolyzed vegetable protein,777,moderate,2
+cranberry,776,moderate,2
+enaddedsugar,776,moderate,2
+organic dried cane syrup,775,moderate,2
+cherry,774,moderate,2
+vinagre de vino,774,moderate,2
+ethylhexylglycerin,772,moderate,2
+acsulfamek,771,moderate,2
+guar,771,moderate,2
+acidulant,771,moderate,2
+carotnodes,771,moderate,2
+gurken,770,moderate,2
+manteiga de cacau,769,moderate,2
+leo de girassol,769,moderate,2
+dlevage au sol,769,moderate,2
+sweet potatoes,768,moderate,2
+glutamato monosdico,767,moderate,2
+calciumcarbonat,766,moderate,2
+modified cellulose,766,moderate,2
+organic palm oil,766,moderate,2
+emulgator sojalecithine,766,moderate,2
+natives olivenl extra,766,moderate,2
+acidifiant acide lactique,765,moderate,2
+beef extract,765,moderate,2
+mustard powder,765,moderate,2
+schalenfrchten,764,moderate,2
+to retain freshness,764,moderate,2
+epices,763,moderate,2
+autolyzed yeast,763,moderate,2
+marjolaine,763,moderate,2
+hops,763,moderate,2
+dried apples,762,moderate,2
+wheat flour wheat flour,762,safe,1
+invert syrup,761,moderate,2
+coagulant microbien,759,moderate,2
+pepperoni,759,moderate,2
+stabiliseringsmedel,759,moderate,2
+couenne de porc,759,moderate,2
+schwarze johannisbeere,758,moderate,2
+vitamin a palmitate added,757,moderate,2
+semoule de ble dur,757,moderate,2
+sodium benzoate preservative,756,hazardous,4
+correttore di acidit acido citrico,756,moderate,2
+organic rice flour,756,safe,1
+hazelnut,756,moderate,2
+emulsifier soy lecithin,755,moderate,2
+leek,754,moderate,2
+enriched with niacin,754,moderate,2
+wholemeal wheat flour,753,safe,1
+zitronensaft aus zitronensaftkonzentrat,753,moderate,2
+amidon transform de pomme de terre,752,moderate,2
+palm and palm kernel oil,752,moderate,2
+prsure animale,751,moderate,2
+pear,750,moderate,2
+aromes naturels,750,moderate,2
+polyphosphates,750,moderate,2
+lactobacillus acidophilus,749,moderate,2
+arme naturel de poivre,747,moderate,2
+inulina,747,moderate,2
+nitritpkelsalz,747,moderate,2
+rgulateur dacidit,746,moderate,2
+copper gluconate,745,moderate,2
+strawberry juice concentrate,745,moderate,2
+vollei,745,moderate,2
+farine de malt dorge,744,moderate,2
+hydrogenated cottonseed oil,743,moderate,2
+matires grasses vgtales,743,moderate,2
+pinto beans,742,moderate,2
+stabilisant carraghnanes,742,moderate,2
+pea protein isolate,741,moderate,2
+semisweet chocolate chips,741,safe,1
+apple puree,741,safe,1
+agua carbonatada,741,moderate,2
+cane molasses,739,moderate,2
+oignon dshydrat,738,moderate,2
+cebula,738,moderate,2
+ufs frais,737,moderate,2
+cognac,737,moderate,2
+mollusque,736,moderate,2
+psyllium,735,moderate,2
+organic cream,735,safe,1
+organic coconut sugar,735,moderately high,3
+carbonate acide dammonium,735,moderate,2
+buchenholzrauch,735,moderate,2
+ground ginger,734,safe,1
+emulsionante lecitina di soia,734,moderate,2
+sorbato potsico,734,moderate,2
+carbonato de calcio,733,moderate,2
+paniermehl,733,moderate,2
+red cabbage,733,safe,1
+huile de noix de coco,733,moderate,2
+shallot,733,moderate,2
+beets,732,moderate,2
+flocons de pomme de terre,732,moderate,2
+blue cheese,732,safe,1
+amido di frumento,731,moderate,2
+bouillon de lgumes,731,moderate,2
+senape,731,moderate,2
+kwas cytrynowy,731,moderate,2
+chicory root extract,730,moderate,2
+acidificante acido citrico,730,moderate,2
+malted wheat flour,729,safe,1
+pflanzliches fett,729,moderate,2
+calcium dpantothenate,728,moderate,2
+mint,728,moderate,2
+glyceryl stearate,727,moderate,2
+ergocalciferol,727,moderate,2
+soya beans,726,moderate,2
+whole oat flour,726,safe,1
+antioxidant ascorbic acid,725,safe,1
+aromates,725,moderate,2
+abricot,724,moderate,2
+coumarin,723,moderate,2
+whole grain brown rice flour,723,safe,1
+organic,723,moderate,2
+senfsaat,723,moderate,2
+menthe,722,moderate,2
+red chilli,722,safe,1
+and folic acid,722,moderate,2
+reduced fat milk,722,safe,1
+huile dolive vierge,722,moderate,2
+solsikkeolje,721,moderate,2
+caf,721,moderate,2
+carbomer,719,moderate,2
+palmkern,719,moderate,2
+gjrekstrakt,718,moderate,2
+lecitinas,718,moderate,2
+from corn,718,safe,1
+ground cumin,718,safe,1
+contains sulphites,718,moderate,2
+arome naturel,717,moderate,2
+mosterdzaad,717,moderate,2
+nutrition photo to be selected,717,moderate,2
+organic turmeric,716,safe,1
+cultured skim milk,716,safe,1
+natural hickory smoke flavor,716,moderate,2
+bay leaf,716,moderate,2
+high oleic canola oil,715,moderate,2
+dried blueberries,715,moderate,2
+bakkersgist,715,moderate,2
+vitamine e,714,moderate,2
+organic coconut,714,safe,1
+granulated sugar,714,moderately high,3
+organic rolled oats,714,moderate,2
+cashew nuts,713,safe,1
+aromaer,713,moderate,2
+buckwheat,712,moderate,2
+leite,712,moderate,2
+paprika powder,712,moderate,2
+cranberry juice concentrate,712,moderate,2
+turbinado sugar,711,moderately high,3
+herbes aromatiques,710,moderate,2
+cacahutes,708,moderate,2
+ascorbyl palmitate,708,moderate,2
+carrot juice concentrate,708,moderate,2
+blanc doeuf en poudre,707,moderate,2
+sucre glace,707,moderate,2
+romaine lettuce,707,moderate,2
+glifiant pectine,707,moderate,2
+plantbased foods,706,moderate,2
+demerara sugar,705,moderately high,3
+modified whey,705,moderate,2
+reisstrke,705,moderate,2
+syre,705,moderate,2
+himalayan pink salt,704,safe,1
+proteine del latte,703,moderate,2
+bleached enriched flour,703,moderate,2
+cultured celery powder,702,moderate,2
+saflor,702,moderate,2
+pure de tomate,702,moderate,2
+latte intero in polvere,701,moderate,2
+haricots verts,701,moderate,2
+syrop glukozowy,701,moderate,2
+organic apples,700,moderate,2
+macadamia nuts,700,moderate,2
+encharacteristicscompleted,700,moderate,2
+chocolate processed with alkali,699,safe,1
+organic molasses,699,moderate,2
+cream powder,697,moderate,2
+almendra,697,moderate,2
+leaf,696,moderate,2
+dry roasted peanuts,695,moderate,2
+sulfate de zinc,695,moderate,2
+bell peppers,694,moderate,2
+apple puree concentrate,694,moderate,2
+ascorbinezuur,693,moderate,2
+allulose,692,moderate,2
+jalapeno,692,moderate,2
+benzoic acid,692,moderately high,3
+de fruits coque,692,moderate,2
+olio di cocco,691,moderate,2
+aceites vegetales,691,moderate,2
+lcithines de soja,691,moderate,2
+koolzaad,691,moderate,2
+spiruline,690,moderate,2
+interesterified soybean oil,690,moderate,2
+ground coriander,690,safe,1
+concentrated orange juice,690,safe,1
+lcarnitine,690,moderate,2
+fruits coques,690,moderate,2
+tara gum,688,moderate,2
+sesame seed,688,safe,1
+z mleka,688,moderate,2
+vitlk,688,moderate,2
+yeast nutrients,687,moderate,2
+pasteurisierte kuhmilch,687,moderate,2
+ingredients to be completed,687,moderate,2
+cido lctico,686,moderate,2
+framboises,685,moderate,2
+orangenschalen,685,moderate,2
+gerstemout,684,moderate,2
+champignons de paris,683,moderate,2
+gummi arabicum,683,moderate,2
+rice bran,682,safe,1
+btacarotne,682,moderate,2
+katsuwonus pelamis,682,moderate,2
+carrot powder,681,moderate,2
+microbial rennet,681,moderate,2
+pommes de terre dshydrates,681,moderate,2
+emulgointiaine,681,moderate,2
+pasteuris,681,moderate,2
+expiration date completed,681,moderate,2
+benzoate de sodium,680,moderate,2
+endisaccharide,680,moderate,2
+citrus fiber,679,moderate,2
+whey permeate,679,moderate,2
+bulgur wheat,679,safe,1
+granola,679,moderate,2
+pretzels,679,moderate,2
+jus de pomme,678,moderate,2
+gerste,678,moderate,2
+muskatnuss,678,moderate,2
+anis,677,moderate,2
+dried potatoes,677,moderate,2
+weinessig,676,moderate,2
+pois chiches,676,moderate,2
+sureregulatoren,676,moderate,2
+crales contenant du gluten,676,moderate,2
+lactobacillus bulgaricus,675,moderate,2
+maltose,675,moderate,2
+cardamome,675,moderate,2
+ingredients photo to be selected,675,moderate,2
+graisse de poulet,674,moderate,2
+cido citrico,674,moderate,2
+allura red,674,moderately high,3
+alginate de sodium,674,moderate,2
+natriumbenzoat,674,moderate,2
+vegetable broth,673,moderate,2
+nocciole,672,moderate,2
+tapioca maltodextrin,672,moderately high,3
+cultured pasteurized grade a nonfat milk,672,safe,1
+topfrscans,672,moderate,2
+lodised salt,671,safe,1
+star anise,671,safe,1
+evaporated cane sugar,671,moderately high,3
+gordura vegetal,671,moderate,2
+foelie,671,moderate,2
+glicerina,670,moderate,2
+roasted almonds,670,moderate,2
+saborizante artificial,670,moderate,2
+feta cheese,670,safe,1
+propyl gallate,670,moderate,2
+crevettes,670,moderate,2
+mace,669,moderate,2
+amidons modifis,669,moderate,2
+gerst,668,moderate,2
+peach,667,moderate,2
+provolone cheese,667,safe,1
+organic distilled vinegar,666,moderate,2
+kokosolie,666,moderate,2
+weizenmalzmehl,665,moderate,2
+benzyl salicylate,665,moderate,2
+girofle,665,moderate,2
+harina de maz,664,moderate,2
+beta carotene color,664,safe,1
+sale marino,664,moderate,2
+sodium saccharin,664,hazardous,4
+yogurt powder,662,moderate,2
+cpres,662,moderate,2
+whole rolled oats,662,moderate,2
+coriander powder,662,moderate,2
+edible vegetable oil,662,moderate,2
+brown sugar syrup,661,moderately high,3
+tamarind extract,661,moderate,2
+mononitrate,660,moderate,2
+azodicarbonamide,660,moderate,2
+organic natural flavors,660,moderate,2
+cornflakes,660,moderate,2
+oeufs frais,659,moderate,2
+crustac,659,moderate,2
+frischkse,659,moderate,2
+lait crm reconstitu,658,moderate,2
+caramelised sugar,657,moderately high,3
+konservierungsstoff kaliumsorbat,657,moderate,2
+vitamina e,656,moderate,2
+piment de cayenne,656,moderate,2
+amaranth,655,hazardous,4
+fruktose,655,moderate,2
+filling,655,moderate,2
+berzugsmittel,655,moderate,2
+caramel colour,655,moderately high,3
+egg white powder,654,moderate,2
+organic chia seeds,654,safe,1
+fermented wheat flour,654,safe,1
+aromas naturales,654,moderate,2
+lettuce,654,moderate,2
+maple sugar,653,moderately high,3
+feuchthaltemittel glycerin,653,moderate,2
+speisegelatine,652,moderate,2
+cultured wheat starch,652,moderate,2
+saumon,652,moderate,2
+frgmne,652,moderate,2
+vinagre de alcohol,652,moderate,2
+fruit juice,651,moderate,2
+dried egg whites,651,safe,1
+fibres de bl,651,moderate,2
+contains or less of the following salt,651,safe,1
+to retard spoilage,651,moderate,2
+gomme base,651,moderate,2
+lleucine,650,moderate,2
+alkohol,650,moderate,2
+happamuudenstaine,650,moderate,2
+jus de tomates,650,moderate,2
+tomaat,650,moderate,2
+sucre roux,649,moderate,2
+anhydrous milk fat,648,safe,1
+antioxydant e,648,moderate,2
+vegetable gums,648,moderate,2
+enplantbasedfoods,648,moderate,2
+sirop de glucose de bl,647,moderately high,3
+zoetstof,647,moderate,2
+capers,647,moderate,2
+whole wheat,646,safe,1
+haferflocken,646,moderate,2
+organic brown rice,645,safe,1
+wheat protein isolate,645,safe,1
+arachide,645,moderate,2
+jalapenos,645,moderate,2
+lait en poudre crm,645,moderate,2
+gomme de xanthane,645,moderate,2
+textured vegetable protein,644,moderate,2
+acidifier,644,moderate,2
+viande de buf,644,moderate,2
+citroenzuur e,644,moderate,2
+instant coffee,643,safe,1
+spice extractive,643,safe,1
+from concentrate,643,moderate,2
+sureregulator citronensure,643,moderate,2
+cashew,642,safe,1
+organic sunflower seeds,642,moderate,2
+nutritional yeast,642,moderate,2
+adipic acid,642,moderate,2
+aneth,642,moderate,2
+invertsuikerstroop,641,moderate,2
+cetyl alcohol,641,moderate,2
+artificial flavoring,641,moderate,2
+room,641,moderate,2
+macis,641,moderate,2
+canela,641,moderate,2
+en proportion variable,641,moderate,2
+organic milk,640,safe,1
+pea starch,640,moderate,2
+kakaosmr,640,moderate,2
+girasole,640,moderate,2
+gelificante,639,moderate,2
+grapes,639,moderate,2
+to protect color,639,moderate,2
+citroensap,639,moderate,2
+kokosnuss,638,moderate,2
+tuszcz kakaowy,638,moderate,2
+ammonium carbonates,637,moderate,2
+lait concentr sucr,637,moderate,2
+ham,637,moderate,2
+jus dorange,637,moderate,2
+contains one or more of the following canola oil,636,moderate,2
+kreuzkmmel,636,moderate,2
+pimentn,636,moderate,2
+vinaigre de vin rouge,636,moderate,2
+food starch,635,moderate,2
+salvado de trigo,635,moderate,2
+taurin,635,moderate,2
+white rice,634,safe,1
+thon,634,moderate,2
+sunflower kernels,634,moderate,2
+degerminated yellow corn flour,634,safe,1
+amidon de pommes de terre,634,moderate,2
+paississant carraghnanes,634,moderate,2
+cayenne,633,moderate,2
+erdnsse,632,moderate,2
+onion extract,632,moderate,2
+blackberries,632,moderate,2
+estratto di malto dorzo,632,moderate,2
+eau de source,632,moderate,2
+epkov olej,632,moderate,2
+organic basil,631,moderate,2
+tapiokastrke,631,moderate,2
+to maintain color,630,moderate,2
+aronia,630,moderate,2
+prei,630,moderate,2
+l casei,629,moderate,2
+ivvz,629,moderate,2
+enriched unbleached flour,629,moderate,2
+organic evaporated cane juice,628,moderate,2
+potassium hydroxide,628,moderate,2
+enriched macaroni product,628,moderate,2
+lowmoisture partskim mozzarella cheese,628,safe,1
+rindfleisch,628,moderate,2
+fructosa,627,moderate,2
+coconut extract,627,moderate,2
+chicken flavor,627,moderate,2
+solrosolja,626,moderate,2
+protease,625,moderate,2
+pectins,625,moderate,2
+yaourt,625,moderate,2
+sunflower seed oil,624,moderate,2
+erbsenprotein,624,moderate,2
+mushroom,623,moderate,2
+glucosefructose,623,moderate,2
+carbonate de sodium,623,moderate,2
+dried egg white,622,safe,1
+sojasauce,622,moderate,2
+chilipeper,622,moderate,2
+apfelsaftkonzentrat,621,moderate,2
+capryliccapric triglyceride,620,moderate,2
+seasoning blend,620,moderate,2
+citric,620,moderate,2
+huile de canola,619,moderate,2
+almendras,619,moderate,2
+joghurt,619,moderate,2
+mulsifiant lcithines de tournesol,619,moderate,2
+komijn,618,moderate,2
+agave syrup,617,moderate,2
+annatto extract color,617,moderate,2
+pfel,617,moderate,2
+vin,617,moderate,2
+aceto di vino,617,moderate,2
+olej sonecznikowy,617,moderate,2
+sodium polyphosphate,616,moderately high,3
+skrobia modyfikowana,616,moderate,2
+fromage blanc,615,moderate,2
+single cream,615,safe,1
+white grape juice concentrate,614,moderate,2
+organic spinach,613,safe,1
+concentr de jus de citron,613,moderate,2
+kakao,613,moderate,2
+organic pea protein,611,moderate,2
+extractive of paprika,611,moderate,2
+cherry juice concentrate,610,moderate,2
+anthocyanes,610,moderate,2
+organic celery,610,moderate,2
+vinaigre de cidre,610,moderate,2
+smoke flavouring,610,moderate,2
+huile dolive extra vierge,609,moderate,2
+titanium dioxide color,609,hazardous,4
+salmon,609,moderate,2
+tomatpur,609,moderate,2
+pate de cacao,609,moderate,2
+cheddar,608,moderate,2
+potassium nitrate,608,hazardous,4
+tartrazina,607,moderate,2
+dehydrated red bell pepper,607,safe,1
+organic maltodextrin,606,moderately high,3
+vitamine a,605,moderate,2
+contient du lait,605,moderate,2
+green onions,605,moderate,2
+galangal,605,moderate,2
+darachides,605,moderate,2
+humectant glycerol,605,moderate,2
+gemodificeerd aardappelzetmeel,605,moderate,2
+lemon juice powder,604,moderate,2
+ketchup,604,moderate,2
+food acids,604,moderate,2
+kaliumchloride,604,moderate,2
+suomi,604,moderate,2
+sunflower seed,603,safe,1
+kaliumsorbaat,603,moderate,2
+pasteurized whole milk,602,safe,1
+sulfite,602,moderately high,3
+ensugar,602,moderate,2
+parmesan,601,moderate,2
+cocoa paste,601,safe,1
+mandorle,600,moderate,2
+vegetarisch stremsel,600,moderate,2
+mandel,599,moderate,2
+protines de bl,599,moderate,2
+food starch modified,598,moderate,2
+feuchthaltemittel sorbit,598,moderate,2
+ethoxylated mono and diglycerides,598,moderate,2
+lab,598,moderate,2
+tofu,597,moderate,2
+refined wheat flour,597,safe,1
+miazga kakaowa,597,moderate,2
+maida,596,safe,1
+reduced lactose whey,596,moderate,2
+cream milk,596,safe,1
+soybean andor sunflower seed,596,safe,1
+contains soy,596,safe,1
+anchois,596,moderate,2
+pte de noisettes,596,moderate,2
+vitamin k,595,moderate,2
+as preservative,595,moderately high,3
+evaporated cane syrup,595,moderate,2
+natural vanilla,595,safe,1
+lime oil,595,moderate,2
+orange oil,595,moderate,2
+pche,595,moderate,2
+olives noires,595,moderate,2
+serwatka w proszku,595,moderate,2
+mulsifiants lcithines soja,595,moderate,2
+concentrated apple juice,594,safe,1
+cido srbico,594,moderate,2
+dekstroza,594,moderate,2
+patata,594,moderate,2
+ufs entiers,594,moderate,2
+almond flour,593,safe,1
+organic locust bean gum,593,moderate,2
+mold inhibitor,593,moderate,2
+estabilizador,593,moderate,2
+sel nitrit,593,moderate,2
+extrait de romarin,592,moderate,2
+dried potato,592,safe,1
+xanthaangom,592,moderate,2
+carote,591,moderate,2
+citronnelle,591,moderate,2
+hibiskus,590,moderate,2
+lcysteine hydrochloride,589,moderate,2
+pimiento,589,moderate,2
+sweet cream buttermilk,589,safe,1
+agaricus bisporus,589,moderate,2
+extrait dpice,589,moderate,2
+froment,589,moderate,2
+atleastscans,589,moderate,2
+pasteurised egg,588,safe,1
+geliermittel,588,moderate,2
+pistazien,588,moderate,2
+crales,587,moderate,2
+kurkumin,586,moderate,2
+enriched unbleached wheat flour,586,safe,1
+houblons,585,moderate,2
+vanilla flavor,584,moderate,2
+pasteurized cultured milk,584,safe,1
+shallots,583,moderate,2
+blanc duf en poudre,583,moderate,2
+enflavouring,583,moderate,2
+graines de lin,582,moderate,2
+whipping cream,582,safe,1
+sojabonen,582,moderate,2
+regulator kwasowoci kwas cytrynowy,582,moderate,2
+niet dierlijk,582,moderate,2
+saborizante natural,581,moderate,2
+crme en poudre,580,moderate,2
+glukose,580,moderate,2
+double cream,580,safe,1
+enthlt sellerie,580,moderate,2
+humectante,580,moderate,2
+amidon modifi de mais,579,moderate,2
+beef broth,579,moderate,2
+assaisonnement,579,moderate,2
+silntaine,578,moderate,2
+alpha tocopherol acetate,577,safe,1
+oat,577,safe,1
+anchovy,577,moderate,2
+cherry powder,576,moderate,2
+zitronensure,576,moderate,2
+lodized salt,576,safe,1
+natural color,575,moderate,2
+fractionated palm oil,575,moderate,2
+sugar syrup,575,moderately high,3
+organic quinoa,575,safe,1
+organic ginger,574,safe,1
+mineral nutrients,574,moderate,2
+grape juice,573,safe,1
+red wine,573,moderate,2
+backtriebmittel diphosphate,573,moderately high,3
+nonfat dry milk solids,573,safe,1
+green pepper,572,safe,1
+enproductnametobecompleted,572,moderate,2
+quantity to be completed,572,moderate,2
+weier pfeffer,570,moderate,2
+glukossirap,570,moderate,2
+slnite de sodium,569,moderate,2
+bicarbonato de amonio,569,moderate,2
+lait de vache,569,moderate,2
+chocolat blanc,569,moderate,2
+arme naturel dorange,569,moderate,2
+olio di oliva,568,moderate,2
+alho,568,moderate,2
+flavor enhancers,566,moderate,2
+choline chloride,566,moderate,2
+crme pasteurise,566,moderate,2
+plante aromatique,566,moderate,2
+dlalphatocopheryl acetate,565,moderate,2
+coconut water,565,safe,1
+carnaubawachs,564,moderate,2
+enwater,564,moderate,2
+acsulfame k,563,moderate,2
+bay leaves,563,moderate,2
+lait cru de vache,563,moderate,2
+atleastfrscans,563,moderate,2
+fcule de pommes de terre,562,moderate,2
+coconut fat,562,safe,1
+vin rouge,562,moderate,2
+exhausteurs de got,562,moderate,2
+topscans,562,moderate,2
+protine de bl,561,moderate,2
+alkalized cocoa,560,safe,1
+semoule de mas,560,moderate,2
+viande bovine,560,moderate,2
+porto,560,moderate,2
+penin mouka,560,moderate,2
+kmmel,560,moderate,2
+tomate en poudre,559,moderate,2
+condensed skim milk,559,safe,1
+erdbeeren,559,moderate,2
+www,558,moderate,2
+plasma de porc,558,moderate,2
+casein,557,moderate,2
+emulsifier mono and diglycerides of fatty acids,557,moderate,2
+estragon,557,moderate,2
+soybean and palm oil,557,moderate,2
+malted barley extract,556,moderate,2
+viande de dinde,556,moderate,2
+farina di grano tenero,556,moderate,2
+root,555,moderate,2
+sweet cream,555,safe,1
+turmeric oleoresin,555,safe,1
+organic paprika,555,moderate,2
+bell pepper,555,safe,1
+zoetstoffen,555,moderate,2
+noix de pcan,554,moderate,2
+mikrobieller labaustauschstoff,554,moderate,2
+phylloquinone,553,moderate,2
+soybean andor canola,553,safe,1
+graisse de coco,553,moderate,2
+envegetable,553,moderate,2
+miele,552,moderate,2
+fettarmer kakao,552,moderate,2
+acetylated monoglycerides,552,moderate,2
+cumin seeds,551,safe,1
+glycrine,551,moderate,2
+sulfitos,551,moderate,2
+carne di suino,551,moderate,2
+acesulfamek,550,moderate,2
+gram flour,550,moderate,2
+sodium stearoyllactylate,550,moderate,2
+edta,550,moderate,2
+cacao magro in polvere,549,moderate,2
+tripotassium phosphate,549,moderately high,3
+tetrasodium edta,549,moderate,2
+prezzemolo,549,moderate,2
+inc,548,moderate,2
+graine de moutarde,548,moderate,2
+chipotle peppers,548,moderate,2
+cebola,548,moderate,2
+wheat germ,547,safe,1
+farina di mais,547,moderate,2
+aceite de palma,547,moderate,2
+hydrolyzed corn gluten,547,safe,1
+contient bl,547,moderate,2
+mausteet,547,moderate,2
+crme de lait,547,moderate,2
+pistachio,546,safe,1
+and vanilla,546,safe,1
+dlalpha tocopheryl acetate,545,moderate,2
+estratto di lievito,545,moderate,2
+pulpe dail,545,moderate,2
+categories to be completed,545,moderate,2
+pinards,544,moderate,2
+antioxidationsmedel,544,moderate,2
+corante,544,moderate,2
+lisoleucine,543,moderate,2
+pasta de cacau,543,moderate,2
+rijsmiddelen,543,moderate,2
+enthlt senf,543,moderate,2
+sirop de sucre,542,moderate,2
+glifiant pectine de fruits,542,moderate,2
+dried oregano,542,moderate,2
+textured soy flour,542,safe,1
+almondmilk,542,moderate,2
+kleurstoffen,542,moderate,2
+tbhq and citric acid,542,hazardous,4
+brilliant blue fcf,542,moderately high,3
+backtriebmittel natriumhydrogencarbonat,542,moderate,2
+flax seed,541,safe,1
+fromage frais,541,moderate,2
+gerstenmalzmehl,541,moderate,2
+piment fort,541,moderate,2
+antioxidant sodium ascorbate,540,moderate,2
+apfelsure,540,moderate,2
+levures,540,moderate,2
+glansmiddel,540,moderate,2
+eau de cuisson,540,moderate,2
+amido modificado,540,moderate,2
+raucharoma,539,moderate,2
+chipotle pepper,539,safe,1
+filet de poulet,539,moderate,2
+ammoniumcarbonate,538,moderate,2
+white meat chicken,538,safe,1
+saindoux,538,moderate,2
+emulsifier sunflower lecithin,538,moderate,2
+pasteurized cultured milk and cream,538,safe,1
+sorghum flour,538,moderate,2
+lait cru,538,moderate,2
+wheat flakes,537,safe,1
+asiago cheese,537,safe,1
+tuna,537,moderate,2
+glazing agents,537,moderate,2
+tomat,536,moderate,2
+carne de cerdo,536,moderate,2
+sorbitan tristearate,535,moderate,2
+appel,535,moderate,2
+conserveermiddel e,535,moderate,2
+sodium lauryl sulfate,534,moderate,2
+beans,534,moderate,2
+magnesium sulfate,533,moderate,2
+jodsalz,533,moderate,2
+wheat fibre,533,safe,1
+mineral salts,533,moderate,2
+protines du lait,533,moderate,2
+gepasteuriseerde melk,533,moderate,2
+molasses powder,532,moderate,2
+fume,532,moderate,2
+rettich,532,moderate,2
+curry powder,531,moderate,2
+maltodextrin made from corn,531,moderately high,3
+cassonade,531,moderate,2
+glukoza,531,moderate,2
+phosphate de calcium,531,moderately high,3
+dbiotin,530,moderate,2
+carbonati di sodio,530,moderate,2
+pescado,530,moderate,2
+organic brown rice flour,530,safe,1
+dont sulfites,530,moderate,2
+poudre lever carbonates de sodium,530,moderate,2
+abricots,529,moderate,2
+zahar,529,moderate,2
+lemon juice solids,528,safe,1
+piments,528,moderate,2
+sucre de canne brut,528,moderate,2
+raisin juice concentrate,527,moderate,2
+amido modificato,526,moderate,2
+carvi,526,moderate,2
+conservateur propionate de calcium,526,moderate,2
+cocoa liquor,526,safe,1
+vri,526,moderate,2
+vinaigre de table,526,moderate,2
+especiarias,526,moderate,2
+mostaza,525,moderate,2
+preservative sodium nitrite,525,hazardous,4
+lait crm pasteuris,525,moderate,2
+organic kale,525,moderate,2
+bicarbonate dammonium,525,moderate,2
+sucre de canne roux,525,moderate,2
+dont bl,525,moderate,2
+dehydrated potatoes,524,moderate,2
+natural colours,524,moderate,2
+lvaline,523,moderate,2
+rice protein,523,safe,1
+black olives,523,moderate,2
+lentils,523,moderate,2
+conservateur nitrate de potassium,523,hazardous,4
+aromer,523,moderate,2
+syra,523,moderate,2
+enriched pasta,522,moderate,2
+cultured whey,522,moderate,2
+cracked wheat,521,safe,1
+sunflower andor canola oil,521,moderate,2
+lait de coco,521,moderate,2
+en poudre,520,moderate,2
+alphaisomethyl ionone,520,moderate,2
+os de porc,520,moderate,2
+leche pasteurizada de vaca,520,moderate,2
+frutta a guscio,520,moderate,2
+caramel ordinaire,519,moderate,2
+partially inverted sugar syrup,518,moderately high,3
+malt de bl,518,moderate,2
+orange juice from concentrate,518,moderate,2
+humectants,518,moderate,2
+glycerol ester of rosin,518,moderate,2
+natamycin a natural mold inhibitor,518,moderate,2
+evaporated milk,518,safe,1
+citrus fibre,518,moderate,2
+perejil,517,moderate,2
+parsley flakes,517,moderate,2
+lactoserum,517,moderate,2
+fibra vegetal,517,moderate,2
+crustacean,516,moderate,2
+electrolyte,516,moderate,2
+poudre de tomate,516,moderate,2
+gomme de cellulose,516,moderate,2
+com,515,moderate,2
+calcium stearoyl lactylate,515,moderate,2
+mjlk,515,moderate,2
+rebaudioside a,514,moderate,2
+emulgatoren mono und diglyceride von speisefettsuren,514,moderate,2
+piment doux,514,moderate,2
+organic raisins,514,moderate,2
+oeufs entiers,514,moderate,2
+zucchero di canna,514,moderate,2
+suerungsmittel milchsure,514,moderate,2
+hydrated silica,513,moderate,2
+hydroxypropyl methylcellulose,513,moderate,2
+whole milk solids,513,safe,1
+czosnek,513,moderate,2
+gewrz,513,moderate,2
+gemodificeerd maiszetmeel,513,moderate,2
+choline bitartrate,512,moderate,2
+melkzuur,512,moderate,2
+black pepper extract,511,moderate,2
+chicory root fibre,511,moderate,2
+magnesium citrate,511,moderate,2
+extracto de malta,511,moderate,2
+vegetable fiber,510,moderate,2
+protine de soja,510,moderate,2
+organic carrot,510,safe,1
+voedingszuren,510,moderate,2
+extrait de malt,510,moderate,2
+organic cocoa,509,safe,1
+lattosio,509,moderate,2
+vegetable glycerine,509,moderate,2
+acidificante,509,moderate,2
+acide sorbique,509,moderate,2
+citral,509,moderate,2
+mechanically separated turkey,508,moderate,2
+crushed red pepper,508,safe,1
+propylene glycol monoesters,507,hazardous,4
+natural sweetener,507,moderately high,3
+tarwemeel,507,moderate,2
+rookaroma,507,moderate,2
+olio extra vergine di oliva,506,moderate,2
+aluminum sulfate,506,moderate,2
+leche entera,506,moderate,2
+gerstemoutextract,506,moderate,2
+cloruro de calcio,505,moderate,2
+schweiz,505,moderate,2
+vegan,505,moderate,2
+druvsocker,505,moderate,2
+concentr de carotte,505,moderate,2
+sweet whey powder,504,moderate,2
+leinsamen,504,moderate,2
+vitamin and mineral blend,504,moderate,2
+mysepulver,503,moderate,2
+cultured pasteurized skim milk,503,safe,1
+kartoffelflocken,503,moderate,2
+chocolate liquor processed with alkali,502,safe,1
+beetroot,502,moderate,2
+hot sauce,502,moderate,2
+fecola di patate,502,moderate,2
+molkenpulver,502,moderate,2
+enoilandfat,502,moderate,2
+envegan,502,moderate,2
+magnsium,501,moderate,2
+lglutamine,501,moderate,2
+chlorure de sodium,501,moderate,2
+suero de leche,501,moderate,2
+beef gelatine,501,moderate,2
+table salt,501,safe,1
+coriander leaf,500,safe,1
+carotene,500,moderate,2
+cashewkerne,500,moderate,2
+muskat,500,moderate,2
+aliments dorigine vgtale,500,moderate,2
+ajo en polvo,499,moderate,2
+reb a,499,moderate,2
+rocou,499,moderate,2
+triticale,498,moderate,2
+in varying proportions,498,moderate,2
+espesantes,498,moderate,2
+oranges,498,moderate,2
+organic parsley,498,moderate,2
+nitrate de potassium,498,hazardous,4
+jaja,498,moderate,2
+pea fibre,497,moderate,2
+with wheatflour,497,moderate,2
+piment rouge,497,moderate,2
+organic cane syrup,497,moderate,2
+pepitas,497,moderate,2
+emulgator lecytyny,497,moderate,2
+acesulfaamk,497,moderate,2
+ensugarsinhighquantity,497,moderate,2
+sladkor,496,moderate,2
+yogurt cultures,496,moderate,2
+copper sulfate,496,moderate,2
+corn starchmodified,496,safe,1
+frtjockningsmedel,496,moderate,2
+cido mlico,495,moderate,2
+glucono delta lactone,495,moderate,2
+harina de trigo fortificada,495,moderate,2
+suerungskulturen,495,moderate,2
+rypsiljy,495,moderate,2
+erbsen,494,moderate,2
+alcool thylique,494,moderate,2
+pain azyme,494,moderate,2
+enmilk,494,moderate,2
+cloruro de potasio,493,moderate,2
+koji,493,moderate,2
+cooked chicken,493,safe,1
+antioxidant e,493,moderate,2
+cafine,493,moderate,2
+vetemjl,493,moderate,2
+boyau naturel de porc,492,moderate,2
+sureregulator natriumcitrate,492,moderate,2
+fermenti lattici vivi,492,moderate,2
+dioxyde de carbone,491,moderate,2
+natural and artificial flavour,491,moderately high,3
+cerise,491,moderate,2
+salt and enzymes,490,safe,1
+natural vanilla flavour,490,moderate,2
+agents denrobage,490,moderate,2
+hop,490,moderate,2
+matire grasse de palme,490,moderate,2
+crme fraiche,489,moderate,2
+cebolla en polvo,489,moderate,2
+lactase enzyme,489,moderate,2
+vit b,488,moderate,2
+seeds,488,moderate,2
+barley flakes,488,safe,1
+arabic gum,488,moderate,2
+patate,488,moderate,2
+farine davoine,487,moderate,2
+garlic extract,487,moderate,2
+aubergines,487,moderate,2
+yellow onion,487,safe,1
+olio di palma,487,moderate,2
+viande de boeuf,487,moderate,2
+glukozni sirup,487,moderate,2
+regulator kwasowoci,487,moderate,2
+kaliumjodid,486,moderate,2
+bicarbonate de soude,486,moderate,2
+amido de milho,486,moderate,2
+si ncessaire pour rguler lacidit,486,moderate,2
+substances laitires modifies,485,moderate,2
+fcula de patata,485,moderate,2
+honey powder,484,moderate,2
+hydrolysed vegetable protein,484,moderate,2
+fruit extract,484,moderate,2
+chicken breast meat with rib meat,484,safe,1
+ground spices,484,moderate,2
+blueberry puree,484,moderate,2
+vis,484,moderate,2
+nigari,484,moderate,2
+aroma naturale di vaniglia,483,moderate,2
+ground turmeric,483,safe,1
+buf,483,moderate,2
+geliermittel pektine,483,moderate,2
+lait pasteuris de vache,482,moderate,2
+basmati rice,482,safe,1
+cooked chickpeas,482,moderate,2
+scharrelei,482,moderate,2
+seasoning salt,481,safe,1
+amidon de froment,481,moderate,2
+cracked black pepper,480,safe,1
+gorge de porc,480,moderate,2
+liquide,480,moderate,2
+butternut squash,479,moderate,2
+brandy,479,moderate,2
+sojamehl,479,moderate,2
+theragra chalcogramma,479,moderate,2
+magnesium carbonate,478,moderate,2
+cianocobalamina,478,moderate,2
+paississant gomme guar,478,moderate,2
+cellulase,477,moderate,2
+used to protect quality,477,moderate,2
+poire,477,moderate,2
+glifiants,477,moderate,2
+sulfate de cuivre,476,moderate,2
+malt flavor,476,moderate,2
+green olives,476,moderate,2
+glukzov sirup,476,moderate,2
+cacao en pte,476,moderate,2
+non fat dry milk,475,safe,1
+reguladores de acidez,475,moderate,2
+corces dorange,474,moderate,2
+vegetable oil blend,474,moderate,2
+iron ferrous sulfate,474,moderate,2
+lemon zest,474,safe,1
+methyl cellulose,474,moderate,2
+enzimas,473,moderate,2
+slunenicov olej,473,moderate,2
+maisstivelse,472,moderate,2
+glycol distearate,472,moderate,2
+currants,472,moderate,2
+kardamom,472,moderate,2
+contient cleri,471,moderate,2
+pfelsure,471,moderate,2
+aroma natural de vainilla,471,moderate,2
+and citric acid,471,moderate,2
+garbanzo beans,471,moderate,2
+raisin paste,471,moderate,2
+semoule de riz,471,moderate,2
+glycerol ester of wood rosin,470,moderate,2
+organic agave syrup,470,moderate,2
+pine nuts,470,moderate,2
+cinnamon powder,470,moderate,2
+ferment,470,moderate,2
+gomme de caroube,469,moderate,2
+baking soda andor calcium phosphate,469,moderately high,3
+gluten free oats,469,moderate,2
+leavening agents,469,moderate,2
+carotenos,469,moderate,2
+sucre roux de canne,469,moderate,2
+shea oil,468,moderate,2
+swiss cheese,468,safe,1
+black carrot,468,safe,1
+kelp extract,468,moderate,2
+acide actique,468,moderate,2
+organic wheat gluten,467,safe,1
+calcium disodium edta preservative,467,hazardous,4
+disodium dihydrogen pyrophosphate,467,moderate,2
+alcohol denat,467,moderate,2
+acidulantes,467,moderate,2
+carraghnane,467,moderate,2
+brown rice protein,466,safe,1
+glycine,466,moderate,2
+citrate de calcium,466,moderate,2
+white mineral oil,466,moderate,2
+cultured pasteurized nonfat milk,466,safe,1
+fructose syrup,466,moderately high,3
+flocons de pommes de terre,466,moderate,2
+fortified wheat flour wheat flour,465,safe,1
+geschmacksverstrker,465,moderate,2
+pimento,465,moderate,2
+crcuma,465,moderate,2
+poudres lever diphosphates et carbonates de sodium,465,moderate,2
+citrate trisodique,465,moderate,2
+amidon de pois,465,moderate,2
+beurre fondu,465,moderate,2
+konservierungsstoffe,464,moderate,2
+iodate de potassium,464,moderate,2
+ferrous sulfate iron,464,moderate,2
+degermed yellow corn meal,464,safe,1
+milled corn,464,safe,1
+lait en poudre entier,464,moderate,2
+cebada,464,moderate,2
+lecithinen,464,moderate,2
+basilicum,464,moderate,2
+ferments lactiques et daffinage,464,moderate,2
+cayennepeper,464,moderate,2
+salz unjodiert,464,moderate,2
+enspain france,464,moderate,2
+semoule de bl,463,moderate,2
+ferrous gluconate,463,moderate,2
+coffee extract,463,moderate,2
+usa,463,moderate,2
+fves de soja,463,moderate,2
+ltheanine,462,moderate,2
+gadus morhua,462,moderate,2
+majoran,462,moderate,2
+pois,462,moderate,2
+citrus pectin,461,moderate,2
+gum blend,461,moderate,2
+appelzuur,461,moderate,2
+lcithine de soya,461,moderate,2
+apple powder,461,moderate,2
+estabilizadores,461,moderate,2
+pflanzliches l,461,moderate,2
+paneermeel,461,moderate,2
+sarriette,461,moderate,2
+sparkling water,460,safe,1
+apfelessig,460,moderate,2
+sardina pilchardus,460,moderate,2
+extrait naturel de vanille,460,moderate,2
+olio di colza,459,moderate,2
+concentrated grape must,459,safe,1
+sucrose acetate isobutyrate,459,moderate,2
+natuurlijk vanillearoma,459,moderate,2
+skummetmelkpulver,458,moderate,2
+water chestnuts,458,safe,1
+organic maple syrup,458,moderate,2
+eau filtre,458,moderate,2
+acid citric,458,moderate,2
+manzana,458,moderate,2
+kardemom,458,moderate,2
+ingrdients,457,moderate,2
+lait crm concentr,457,moderate,2
+jst,457,moderate,2
+varkensvlees,457,moderate,2
+vainillina,456,moderate,2
+spring onion,456,safe,1
+pasteurized organic milk,456,safe,1
+karamell,456,moderate,2
+pasteurisierte milch,456,moderate,2
+acide tartrique,456,moderate,2
+extrait de houblon,456,moderate,2
+glatine bovine,456,moderate,2
+contains one or more of the following canola,455,moderate,2
+almidn de trigo,455,moderate,2
+packaging photo selected,455,moderate,2
+date paste,454,moderate,2
+pure vanilla extract,454,moderate,2
+amidon modifi de manioc,454,moderate,2
+humectant glycrol,454,moderate,2
+raw sugar,454,moderately high,3
+with tbhq for freshness,454,hazardous,4
+disodium inosinate and guanylate,454,moderately high,3
+aged cayenne red peppers,454,moderate,2
+koolzuurhoudend water,454,safe,1
+allergy advice for allergens,454,moderate,2
+aloe barbadensis leaf juice,453,moderate,2
+yellow corn meal,453,safe,1
+beet,452,moderate,2
+beet juice,452,moderate,2
+uien,452,moderate,2
+rapsiljy,452,moderate,2
+verdickungsmittel johannisbrotkernmehl,452,moderate,2
+hazelnut paste,451,moderate,2
+sorbic acid preservative,451,moderately high,3
+margarine vgtale,451,moderate,2
+vanilla beans,450,safe,1
+noix de coco rpe,450,moderate,2
+weizenvollkornmehl,450,moderate,2
+betterave rouge,450,moderate,2
+emulgator e,450,moderate,2
+organic sunflower lecithin,449,moderate,2
+organic cashews,449,moderate,2
+red pepper powder,449,moderate,2
+vinaigre de riz,449,moderate,2
+rijst,449,moderate,2
+pte,448,moderate,2
+palm olein,448,moderate,2
+huile de ssame,448,moderate,2
+amidon modifi de tapioca,448,moderate,2
+red onions,447,moderate,2
+fresh cucumbers,447,moderate,2
+butyrospermum parkii,447,moderate,2
+org,447,moderate,2
+endairy,447,moderate,2
+potetstivelse,446,moderate,2
+cane syrup,446,moderate,2
+ground white pepper,446,safe,1
+butteroil,446,moderate,2
+controls acidity,446,moderate,2
+radicchio,446,moderate,2
+maiszetmeel,446,moderate,2
+cassava flour,445,moderate,2
+cultivos lcticos,445,moderate,2
+ammoniumhydrogencarbonat,445,moderate,2
+oignons dshydrats,445,moderate,2
+origins completed,445,moderate,2
+maltodekstryna,444,moderate,2
+tomatenpoeder,444,moderate,2
+crme liquide,444,moderate,2
+xarope de glicose,444,moderate,2
+jodioitu suola,444,moderate,2
+white cheddar cheese,443,safe,1
+white sugar,443,moderately high,3
+sesame tahini,443,safe,1
+curcumina,443,moderate,2
+protenas de la leche,443,moderate,2
+hafer,443,moderate,2
+guarpitmeel,443,moderate,2
+double concentr de tomates,443,moderate,2
+meelverbeteraar,443,moderate,2
+oatmeal,442,moderate,2
+natural spices,442,moderate,2
+actates de sodium,442,moderate,2
+jalapeo peppers,441,moderate,2
+raspberry juice concentrate,441,moderate,2
+green chiles,441,moderate,2
+psyllium husk,441,moderate,2
+phosphates de calcium,441,moderate,2
+organic vanilla,440,safe,1
+organic potato starch,440,moderate,2
+low moisture part skim mozzarella cheese,440,safe,1
+betterave,440,moderate,2
+citrate de potassium,439,moderate,2
+modifisert stivelse,439,moderate,2
+dried tomato,439,safe,1
+tuz,439,moderate,2
+condiment,439,moderate,2
+apfelsaft,439,moderate,2
+graisse vgtale de coprah,439,moderate,2
+biotina,438,moderate,2
+added to prevent caking,438,moderate,2
+fish sauce,438,safe,1
+american cheese,438,safe,1
+schlagsahne,438,moderate,2
+pimienta negra,438,moderate,2
+weiweinessig,438,moderate,2
+valkosipuli,438,moderate,2
+ennutriscore,438,moderate,2
+polidextrosa,437,moderate,2
+carrageenan gum,437,moderately high,3
+grasa de palma,437,moderate,2
+mono en diglyceriden van vetzuren,437,moderate,2
+cocco,437,moderate,2
+rijstmeel,437,moderate,2
+farbstoff carotin,437,moderate,2
+dried red bell pepper,436,safe,1
+orangensaft aus orangensaftkonzentrat,436,moderate,2
+groente,436,moderate,2
+envegetableoilandfat,436,moderate,2
+mushroom powder,435,moderate,2
+yeast powder,435,moderate,2
+natriumcitrat,435,moderate,2
+de graines de ssame,435,moderate,2
+apio,435,moderate,2
+part skim milk,435,safe,1
+extrait de noix de coco,435,moderate,2
+coating,434,moderate,2
+natural and artificial flavours,434,moderate,2
+coconut milk powder,434,moderate,2
+mineral,434,moderate,2
+protine de pois,433,moderate,2
+soro de leite em p,433,moderate,2
+helianthus annuus,432,moderate,2
+unbleached enriched wheat flour flour,432,safe,1
+farine de fves,432,moderate,2
+nongmo canola oil,432,moderate,2
+sirop de maltitol,432,moderate,2
+acidifiants acide citrique,431,moderate,2
+huile vgtale de tournesol,431,moderate,2
+vitamins and minerals,430,moderate,2
+tea,430,safe,1
+organic cocoa powder,430,moderate,2
+toasted sesame oil,430,moderate,2
+caramelized sugar,430,moderately high,3
+fosfato triclcico,430,moderate,2
+italy,430,moderate,2
+semoule de bl dur de qualit suprieure,430,moderate,2
+maltodextrines,429,moderate,2
+organic oregano,429,moderate,2
+kse,429,moderate,2
+eker,429,moderate,2
+kruidnagel,429,moderate,2
+karamel,429,moderate,2
+myrtille,428,moderate,2
+mature cheddar cheese,428,safe,1
+fisch,428,moderate,2
+europe,428,moderate,2
+protena de soja,428,moderate,2
+grasas vegetales,428,moderate,2
+aromatizantes,428,moderate,2
+butter flavor,427,moderate,2
+cido pantotnico,427,moderate,2
+phytonadione,427,moderate,2
+tijm,427,moderate,2
+ensaturatedfatinhighquantity,427,moderate,2
+photos validated,427,moderate,2
+e a,426,moderate,2
+hevemiddel,426,moderate,2
+saborizantes,426,moderate,2
+cheese sauce,426,safe,1
+ferric phosphate,426,moderately high,3
+ascorbinezuur e,426,moderate,2
+vanilla powder,425,moderate,2
+margarina,425,moderate,2
+myrtilles,425,moderate,2
+verdickungsmittel carrageen,425,moderate,2
+sssmolkenpulver,425,moderate,2
+natural lemon flavor,425,moderate,2
+calcium acetate,425,moderate,2
+propionate de calcium,425,moderate,2
+sipuli,425,moderate,2
+natural smoke flavoring,424,moderate,2
+added to preserve freshness,424,moderate,2
+organic strawberries,424,moderate,2
+kalamata olives,424,moderate,2
+aroma de humo,424,moderate,2
+apricot,423,moderate,2
+soybean oil andor canola oil,423,moderate,2
+beurre laitier concentr,423,moderate,2
+sunset yellow fcf,423,moderately high,3
+ground nutmeg,422,safe,1
+stremsel,422,moderate,2
+fiber,422,moderate,2
+leo vegetal,422,moderate,2
+long grain rice,422,safe,1
+lgumes dshydrats,422,moderate,2
+kleurstof carotenen,422,moderate,2
+olives vertes,422,moderate,2
+eau minrale naturelle,422,moderate,2
+fresa,421,moderate,2
+zitronenschalen,421,moderate,2
+actate de sodium,421,moderate,2
+dufs,421,moderate,2
+oli vegetali,420,moderate,2
+sweetcorn,420,moderate,2
+organic chocolate liquor,420,safe,1
+processing aid,420,moderate,2
+enthalten milch,420,moderate,2
+organic dates,420,moderate,2
+concentr,420,moderate,2
+lowfat milk,419,safe,1
+ground beef,419,moderate,2
+gelificante pectina,419,moderate,2
+kochsalz jodiert,419,moderate,2
+potassium bromate,418,hazardous,4
+whole grain corn,418,safe,1
+organic nonfat milk,418,safe,1
+organic pumpkin seeds,418,moderate,2
+seasonings,418,moderate,2
+organic high oleic sunflower oil,418,moderate,2
+sakeuttamisaine,418,moderate,2
+frbende lebensmittel,418,moderate,2
+vegetabilsk olje,417,moderate,2
+vegetable stock,417,moderate,2
+organic oats,417,moderate,2
+zuurteregelaar citroenzuur,417,moderate,2
+magere cacaopoeder,417,moderate,2
+soyalecitin,416,moderate,2
+seler,416,moderate,2
+sorbato de potssio,416,moderate,2
+amido modificato di mais,416,moderate,2
+pyridoxine hcl,415,moderate,2
+rum,415,moderate,2
+organic brown sugar,415,moderately high,3
+rind,415,moderate,2
+contains celery,414,moderate,2
+chia,414,safe,1
+degerminated yellow corn meal,414,safe,1
+culture bactrienne,414,moderate,2
+monk fruit,414,moderate,2
+skrobia ziemniaczana,414,moderate,2
+panais,413,moderate,2
+leeks,413,moderate,2
+pasteurised egg yolk,413,safe,1
+emulgente lecitina de soja,413,moderate,2
+melkeiwitten,413,moderate,2
+ammonium hydrogen carbonate,412,moderate,2
+antiossidante acido ascorbico,412,moderate,2
+geliermittel pektin,412,moderate,2
+conserveermiddelen,412,moderate,2
+harina de trigo enriquecida,411,moderate,2
+sodium silicoaluminate,411,moderate,2
+enriched corn meal,411,safe,1
+herbs and spices,411,moderate,2
+crustaceans,411,moderate,2
+oignons en poudre,411,moderate,2
+onion and garlic powder,411,moderate,2
+natural and artificial flavoring,411,moderate,2
+sirop de riz,411,moderate,2
+soja et fruits coque,411,moderate,2
+vegetable monoglycerides,410,moderate,2
+source of iron,410,moderate,2
+farine de fve,410,moderate,2
+sel nitrit pour saumure,410,moderate,2
+cloruro de sodio,409,moderate,2
+glycosides de stviol,409,moderate,2
+fruit de la passion,409,moderate,2
+himbeeren,409,moderate,2
+cocoglucoside,409,moderate,2
+kruiden en specerijen,409,moderate,2
+boter,409,moderate,2
+rook,409,moderate,2
+hypromellose,408,moderate,2
+flour treatment agent ascorbic acid,408,safe,1
+acidifier citric acid,408,moderate,2
+organic inulin,408,moderate,2
+protines lactiques,408,moderate,2
+encereal,408,moderate,2
+farine de ble malt,407,moderate,2
+oeuf entier,407,moderate,2
+suerungsmittel essigsure,407,moderate,2
+kokosnussl,407,moderate,2
+backhefe,407,moderate,2
+joghurt mild,407,moderate,2
+kichererbsen,407,moderate,2
+fosfato monoclcico,406,moderate,2
+enriched wheat flour bleached,406,safe,1
+organic sesame seeds,406,safe,1
+fleur de sel,406,moderate,2
+glutine di frumento,406,moderate,2
+nutrition facts to be completed,406,moderate,2
+panna,405,moderate,2
+cipolle,405,moderate,2
+raw cane sugar,405,moderately high,3
+cooked rice,405,safe,1
+mono y diglicridos de cidos grasos,405,moderate,2
+organic apple puree,405,safe,1
+sweetened dried cranberries,405,moderate,2
+cacau em p,405,moderate,2
+citroen,405,moderate,2
+lait partiellement crm,405,moderate,2
+chlorhydrate de pyridoxine,404,moderate,2
+fennel seed,404,safe,1
+onion juice concentrate,404,moderate,2
+rice wine,404,safe,1
+in vernderlichen gewichtsanteilen,404,moderate,2
+liquid whole egg,404,safe,1
+xantangummi,403,moderate,2
+vodka,403,moderate,2
+with added calcium,403,moderate,2
+liebstckel,403,moderate,2
+kuhinjska sol,403,moderate,2
+ennaturalflavouring,403,moderate,2
+kaliumchlorid,402,moderate,2
+semi di sesamo,402,moderate,2
+glukoosisiirappi,402,moderate,2
+sulfate de manganse,401,moderate,2
+cassia,401,moderate,2
+saborizantes naturales,401,moderate,2
+colored with,401,moderate,2
+habanero peppers,401,moderate,2
+organic evaporated cane sugar,401,moderately high,3
+corn grits,400,safe,1
+organic tomato juice,400,safe,1
+dry whey,400,moderate,2
+carrot concentrate,400,moderate,2
+fresh onions,400,moderate,2
+levedura,400,moderate,2
+koen,400,moderate,2
+vehnjauho,400,moderate,2
+gasificante,399,moderate,2
+cheeses,399,moderate,2
+spelt,399,moderate,2
+trennmittel,399,moderate,2
+vegetable mono and diglycerides,398,moderate,2
+lecithine de soja,398,moderate,2
+sorbic acid as a preservative,398,moderately high,3
+extrait de carotte,398,moderate,2
+organic apple,398,safe,1
+essigsure,398,moderate,2
+bifidobacterium lactis,397,moderate,2
+rendered chicken fat,397,safe,1
+calcium disodium edta added to protect flavor,397,hazardous,4
+fdc red no,397,moderate,2
+full cream milk powder,397,moderate,2
+gelling agent pectin,397,moderate,2
+pork gelatine,397,moderate,2
+glicerol,397,moderate,2
+lactate de calcium,397,moderate,2
+black pepper powder,397,moderate,2
+de moutarde,397,moderate,2
+arme naturel de menthe,397,moderate,2
+melbehandlingsmiddel,396,moderate,2
+paississant e,396,moderate,2
+ascorbic acid added as a dough conditioner,396,safe,1
+natursauerteig,396,moderate,2
+potassium sorbate added to maintain freshness,396,moderate,2
+ferric pyrophosphate,396,moderate,2
+girassol,396,moderate,2
+magere melk,396,moderate,2
+lcithine,395,moderate,2
+roggen,395,moderate,2
+brominated vegetable oil,395,hazardous,4
+emulsificantes,395,moderate,2
+bifidobacterium,395,moderate,2
+senfkrner,395,moderate,2
+fibres dagrumes,395,moderate,2
+acido folico,394,moderate,2
+kokosolje,394,moderate,2
+cocos nucifera,394,moderate,2
+patate douce,394,moderate,2
+tomatillos,394,moderate,2
+aubergine,394,moderate,2
+sodium selenate,394,moderate,2
+naturlig arom,394,moderate,2
+hopfenextrakt,394,moderate,2
+maisgrie,394,moderate,2
+viande et gras de porc,394,moderate,2
+chicken base,393,safe,1
+whey milk,393,safe,1
+source of zinc,393,moderate,2
+sesame seed oil,393,moderate,2
+dietary fiber,393,moderate,2
+carmins,393,moderate,2
+flte,392,moderate,2
+dried cherries,392,moderate,2
+hydrolyzed soy and corn protein,392,safe,1
+chou,392,moderate,2
+rahm,392,moderate,2
+champignon,392,moderate,2
+lin,392,moderate,2
+mulsifiant lcithine,391,moderate,2
+reduced mineral whey powder,391,moderate,2
+extrait de curcuma,391,moderate,2
+condimente,391,moderate,2
+modifisert maisstivelse,390,moderate,2
+preserve freshness,390,moderate,2
+grape juice from concentrate,390,moderate,2
+lutine,390,moderate,2
+stabilisant e,390,moderate,2
+less than corn syrup,390,moderately high,3
+maltodextrine de mas,390,moderate,2
+foie gras de canard du sudouest,390,moderate,2
+chicken powder,389,moderate,2
+vegetable,389,moderate,2
+propionic acid,389,moderate,2
+olio extravergine di oliva,389,moderate,2
+skrobia,389,moderate,2
+organic corn,389,safe,1
+palm andor canola oil,389,moderate,2
+refined palm oil,389,moderate,2
+potenciador del sabor,389,moderate,2
+sel comestible,389,moderate,2
+spinat,388,moderate,2
+organo,388,moderate,2
+phosphate,388,moderately high,3
+dairy product solids,388,moderate,2
+organic cumin,388,safe,1
+edamame,388,moderate,2
+cod,388,moderate,2
+maltit,388,moderate,2
+soj,387,moderate,2
+lecitina di soia,387,moderate,2
+turmeric color,387,safe,1
+guarana seed extract,387,moderate,2
+organic oat fiber,387,safe,1
+calcium phosphates,387,moderate,2
+penaeus vannamei,387,moderate,2
+sonnenblumen,387,moderate,2
+gedroogde glucosestroop,387,moderate,2
+sorbitols,387,moderate,2
+livche,387,moderate,2
+kaliumsorbaat e,387,moderate,2
+vinegar solids,386,moderate,2
+red kidney beans,386,moderate,2
+ripe olives,386,moderate,2
+natural vitamin e,386,moderate,2
+organic stevia leaf extract,386,moderate,2
+huevos,385,moderate,2
+dattes,385,moderate,2
+organic flavor,385,moderate,2
+includes blue lake,385,moderate,2
+organic cilantro,385,moderate,2
+palm fruit oil,385,moderate,2
+rozemarijn,385,moderate,2
+rismel,384,moderate,2
+sweetcream buttermilk,384,moderate,2
+elderberry juice concentrate,384,moderate,2
+concentrated crushed tomatoes,384,moderate,2
+butylene glycol,384,moderate,2
+raising agents diphosphates,384,moderate,2
+glten,384,moderate,2
+barley malt flour,383,safe,1
+walnut,383,safe,1
+palm fruit,383,moderate,2
+turkey breast meat,383,moderate,2
+sitruunahappo,383,moderate,2
+stningsmedel,383,moderate,2
+levedantes,383,moderate,2
+green dot,383,moderate,2
+tarwemoutmeel,382,moderate,2
+red quinoa,382,safe,1
+powdered cellulose to prevent caking,382,moderate,2
+organic cornstarch,382,moderate,2
+sheeps milk,382,safe,1
+sodium fluoride,382,moderate,2
+made in france,382,moderate,2
+pinard,381,moderate,2
+blueberry juice concentrate,381,moderate,2
+protein,381,moderate,2
+potassium sorbate and calcium disodium edta,381,hazardous,4
+organic cranberries,381,moderate,2
+cranberry juice,381,moderate,2
+guanylate disodique,381,moderate,2
+matire grasse du lait,381,moderate,2
+reissirup,381,moderate,2
+potato maltodextrin,380,moderately high,3
+microbieel stremsel,380,moderate,2
+creamer,380,moderate,2
+syrup,380,moderate,2
+capsicum,380,safe,1
+annatto and turmeric,380,moderate,2
+pasteurized sheeps milk,380,safe,1
+calcium iodate,380,moderate,2
+enfruit,380,moderate,2
+pomegranate juice concentrate,379,moderate,2
+ammonium chloride,379,moderate,2
+korianderzaad,379,moderate,2
+mulsifiants mono et diglycrides dacides gras,379,moderate,2
+farge,378,moderate,2
+roasted red peppers,378,moderate,2
+stabilisator triphosphate,378,moderately high,3
+extracto de malta de cebada,378,moderate,2
+cellulose powder,377,moderate,2
+minced garlic,377,safe,1
+mononitrato de tiamina,377,moderate,2
+organic coconut milk,377,safe,1
+dried coconut,377,safe,1
+chilipulver,377,moderate,2
+organic broccoli,377,moderate,2
+jus de citron vert,377,moderate,2
+peautre,377,moderate,2
+prodn aroma,377,moderate,2
+talc,376,moderate,2
+colecalciferol,376,moderate,2
+grapefruit,376,moderate,2
+azcar de caa,376,moderate,2
+light cream,376,safe,1
+guar hydroxypropyltrimonium chloride,376,moderate,2
+soya protein,376,moderate,2
+oligofruktose,376,moderate,2
+palm oil shortening,375,moderate,2
+amidon de mais modifi,375,moderate,2
+annatto norbixin,375,moderate,2
+pork stock,375,moderate,2
+mirin,375,moderate,2
+bakkerszout,374,moderate,2
+durum semolina,374,moderate,2
+leche desnatada,374,moderate,2
+inosinate disodique,374,moderate,2
+mandarine,374,moderate,2
+uf entier,374,moderate,2
+pure,373,moderate,2
+laktase,373,moderate,2
+th vert,373,moderate,2
+yoghurt,373,moderate,2
+jarabe de maz de alta fructosa,372,moderate,2
+partially hydrogenated palm oil,372,hazardous,4
+organic oat flour,372,safe,1
+cooked chicken meat,372,safe,1
+sirop de mas,372,moderate,2
+fibre de pois,372,moderate,2
+bulking agent,371,moderate,2
+matire grasse laitire,371,moderate,2
+green chile peppers,371,moderate,2
+fibres alimentaires,371,moderate,2
+starterkulturen,371,moderate,2
+linseed,371,moderate,2
+fenchel,371,moderate,2
+milchsurekulturen,371,moderate,2
+fruit juice concentrate,370,moderate,2
+contains barley,370,safe,1
+contains less than of the following salt,370,safe,1
+pecan,370,moderate,2
+mascarpone,370,moderate,2
+succo di limone,370,moderate,2
+tierisches lab,370,moderate,2
+cibule,370,moderate,2
+organic olive oil,369,moderate,2
+caramel aromatique,369,moderate,2
+dry roasted almonds,369,moderate,2
+white chicken meat,369,safe,1
+mulsifiants e,369,moderate,2
+organic blueberries,369,moderate,2
+contains or less of the following soybean oil,369,moderate,2
+enriched bleached flour wheat flour,369,safe,1
+propionato de calcio,369,moderate,2
+extrakt aus rosmarin,369,moderate,2
+pure de pomme,369,moderate,2
+sirop de fructose,368,moderately high,3
+prsure microbienne,368,moderate,2
+caramelo,368,moderate,2
+graines de pavot,368,moderate,2
+sojabloem,367,moderate,2
+buckwheat flour,367,moderate,2
+barwnik,367,moderate,2
+organic banana puree,367,safe,1
+bevat melk,367,moderate,2
+affermissant chlorure de calcium,367,moderate,2
+frumento,367,moderate,2
+navets,367,moderate,2
+concentrated butter,366,safe,1
+arome naturel de vanille,366,moderate,2
+calcium disodium edta to protect flavor,366,hazardous,4
+marshmallows,366,moderate,2
+saccharin,366,hazardous,4
+kakaomassa,366,moderate,2
+stabilisant sorbitols,366,moderate,2
+cooked pasta,365,moderate,2
+vit c,365,moderate,2
+arachidi,365,moderate,2
+extractives of turmeric,365,safe,1
+fruit and vegetable juice for color,365,moderate,2
+pure de mangue,365,moderate,2
+gekaramelliseerde suiker,365,moderate,2
+sojasaus,365,moderate,2
+paprikaextract,365,moderate,2
+stabilointiaine,365,moderate,2
+vegetable mono diglycerides,364,moderate,2
+beurre sal,364,moderate,2
+ennuts,364,moderate,2
+sodium carboxymethylcellulose,363,moderate,2
+concentrate,363,moderate,2
+soybean andor cottonseed oils,363,safe,1
+dimethylpolysiloxane,363,moderate,2
+sureau,363,moderate,2
+arme naturel de citron avec autres armes naturels,363,moderate,2
+fettarme milch,363,moderate,2
+stabilisator johannisbrotkernmehl,363,moderate,2
+carbonate de magnsium,362,moderate,2
+milcheiweiss,362,moderate,2
+parmesan cheese pasteurized milk,362,safe,1
+apa,362,moderate,2
+filberts,362,moderate,2
+karragenan,362,moderate,2
+rosinen,362,moderate,2
+marchew,362,moderate,2
+extrait de vin blanc,362,moderate,2
+vainilla,362,moderate,2
+xylanase,361,moderate,2
+cheese blend,361,safe,1
+modified soy protein,361,moderate,2
+caramel coloring,361,moderate,2
+trehalose,361,moderate,2
+colorante natural,361,moderate,2
+schwein,361,moderate,2
+vitaminer,361,moderate,2
+frbendes lebensmittel,361,moderate,2
+fines herbes,361,moderate,2
+lactasa,361,moderate,2
+mgkg,361,moderate,2
+shiitake mushroom,360,moderate,2
+rouge de betterave,360,moderate,2
+potassium salt,360,safe,1
+spices and herbs,360,moderate,2
+rbenzucker,360,moderate,2
+kalium,360,moderate,2
+druesukker,360,moderate,2
+pollock,359,moderate,2
+carragenanos,359,moderate,2
+ground paprika,359,moderate,2
+corn masa flour,359,safe,1
+organic peanuts,359,moderate,2
+pineapple juice from concentrate,359,moderate,2
+vitamin,359,moderate,2
+exhausteur de got e,359,moderate,2
+cukrus,359,moderate,2
+sel fin,359,moderate,2
+bevat tarwe,359,moderate,2
+sprinkles,358,moderate,2
+oignons frits,358,moderate,2
+organic rosemary extract,358,moderate,2
+sucre liquide,358,moderate,2
+propanediol,358,moderate,2
+chili pepper extract,358,moderate,2
+carota,358,moderate,2
+geleermiddel,358,moderate,2
+drode,358,moderate,2
+figues,357,moderate,2
+lentil flour,357,safe,1
+guarkjernemel,357,moderate,2
+white grape juice from concentrate,357,moderate,2
+lemon pulp,357,safe,1
+selenium,357,moderate,2
+fond de volaille,357,moderate,2
+leche descremada,357,moderate,2
+brown cane sugar,356,moderately high,3
+concombre,356,moderate,2
+egg albumen,356,safe,1
+organic agave nectar,356,moderate,2
+pasteurized eggs,356,moderate,2
+gluconodeltalactone,356,moderate,2
+fructooligosaccharides,356,moderate,2
+mot de raisin,356,moderate,2
+pistache,356,moderate,2
+enwheat,356,moderate,2
+elderberry,355,moderate,2
+eisen,355,moderate,2
+chick peas,355,safe,1
+sodium pyrophosphate,355,moderate,2
+calcium sulphate,355,moderate,2
+amidon de manioc,355,moderate,2
+farine de mais,355,moderate,2
+rietsuiker,355,moderate,2
+sodium hyaluronate,354,moderate,2
+sarrasin,354,moderate,2
+bromelain,354,moderate,2
+lime juice powder,354,moderate,2
+arme naturel dail,354,moderate,2
+organic soy flour,354,safe,1
+saborizante,354,moderate,2
+cooked beef,354,moderate,2
+ethanol,354,moderate,2
+queso,354,moderate,2
+stabilizator,354,moderate,2
+enrootvegetable,354,moderate,2
+dried vinegar,353,moderate,2
+de gluten,353,moderate,2
+soya bean,353,safe,1
+sale iodato,353,moderate,2
+annatto vegetable color,353,moderate,2
+vegetable fibre,353,moderate,2
+potassium acetate,352,moderate,2
+contains less than of natural flavor,352,moderate,2
+ingredients,352,moderate,2
+aspergillus oryzae,352,moderate,2
+lupinen,352,moderate,2
+kakaov hmota,352,moderate,2
+farine de sarrasin,352,moderate,2
+gulrot,352,moderate,2
+pepe,352,moderate,2
+carbonato cido de sodio,352,moderate,2
+natriumascorbaat e,352,moderate,2
+antioxidante cido ascrbico,352,moderate,2
+asparagus,351,moderate,2
+phosphate tricalcique,351,moderately high,3
+fruit coque,351,moderate,2
+carbonatos de sodio,351,moderate,2
+emulsionante lecitina di girasole,350,moderate,2
+nelken,350,moderate,2
+panax ginseng root extract,350,moderate,2
+mehl,350,moderate,2
+characteristics completed,350,moderate,2
+organic expeller pressed canola oil,349,moderate,2
+contains or less of sugar,349,moderately high,3
+dehydrated potato,349,safe,1
+triethyl citrate,349,moderate,2
+reifungskulturen,349,moderate,2
+weingeistessig,349,moderate,2
+stivelse,349,moderate,2
+huile de tournesol olique,349,moderate,2
+chia seed,348,safe,1
+organic cheddar cheese,348,safe,1
+ingefr,348,moderate,2
+diglycerides,348,moderate,2
+malt vinegar,348,moderate,2
+soybean and palm oil with tbhq for freshness,348,hazardous,4
+emulgator lecithinen,348,moderate,2
+paississants gomme xanthane,348,moderate,2
+pure de tomates double concentre,348,moderate,2
+glyceryl monostearate,347,moderate,2
+to protect taste,347,moderate,2
+barley flour,347,safe,1
+orangensaftkonzentrat,347,moderate,2
+riz basmati,347,safe,1
+stearyl alcohol,347,moderate,2
+walnsse,347,moderate,2
+antioxydant extrait de romarin,347,moderate,2
+natriumcarbonaten,347,moderate,2
+siero di latte,347,moderate,2
+artificial butter flavor,346,moderate,2
+gomme dacacia,346,moderate,2
+anhydrous dextrose,346,moderately high,3
+clarified butter,346,safe,1
+vegetable juice concentrate,346,moderate,2
+juice concentrate,346,moderate,2
+peg hydrogenated castor oil,346,moderate,2
+extrait riche en tocophrols,346,moderate,2
+lemon puree,345,safe,1
+enzymes and annatto,345,moderate,2
+sirop de glucose fructose,345,moderately high,3
+citromsav,345,moderate,2
+natriumnitriet e,345,moderate,2
+sugarglucosefructose,344,moderate,2
+sulfiet,344,moderate,2
+dehydrated onion and garlic,344,safe,1
+palmowy,344,moderate,2
+himalayan salt,344,safe,1
+pure vanilla,344,safe,1
+avellanas,344,moderate,2
+suerungsmittel zitronensure,344,moderate,2
+oncorhynchus mykiss,344,moderate,2
+dixido de silicio,343,moderate,2
+smoked salt,343,safe,1
+shiitake mushrooms,343,moderate,2
+jus de pomme concentr,343,moderate,2
+soda,343,moderate,2
+alaska pollock,343,moderate,2
+pesce,343,moderate,2
+vitaminen,343,moderate,2
+rapsolie,343,moderate,2
+enzymen,343,moderate,2
+lecitina,342,moderate,2
+vit,342,moderate,2
+orzo,342,moderate,2
+erythorbic acid,342,moderate,2
+chilli flakes,342,safe,1
+organic white vinegar,342,moderate,2
+organic mustard seed,342,safe,1
+textured soy protein,342,safe,1
+acidity regulator lactic acid,342,moderate,2
+sucre de cannequot,342,moderate,2
+apfelsaft aus apfelsaftkonzentrat,342,moderate,2
+engluten,342,moderate,2
+soya protein isolate,341,moderate,2
+pea fiber,341,moderate,2
+emulgator sojalecithin,341,moderate,2
+mono,341,moderate,2
+artichokes,341,moderate,2
+slidos lcteos,341,moderate,2
+sale da cucina,341,moderate,2
+verdikkingsmiddelen,341,moderate,2
+guma guar,341,moderate,2
+dont cleri,340,moderate,2
+monoand diglycerides of fatty acids,340,moderate,2
+acesulfamo k,340,moderate,2
+enflour,340,moderate,2
+antiaglomerante,339,moderate,2
+beet juice concentrate,339,moderate,2
+diced peaches,339,moderate,2
+dark brown sugar,339,moderately high,3
+antiossidante ascorbato di sodio,339,moderate,2
+paississant pectines,339,moderate,2
+enmonosaccharide,339,moderate,2
+emulsionanti,338,moderate,2
+verdickungsmittel pektine,338,moderate,2
+including paprika,338,moderate,2
+organic skim milk,338,safe,1
+riso,338,moderate,2
+origine vgtale,338,moderate,2
+volleipulver,337,moderate,2
+du lait,337,moderate,2
+see ingredients in bold also,337,moderate,2
+sorghum,337,moderate,2
+honing,337,moderate,2
+betakaroten,337,moderate,2
+bakpulver,337,moderate,2
+espessante,337,moderate,2
+peperoni,337,moderate,2
+ene,337,moderate,2
+agar agar,336,moderate,2
+caraway seeds,336,moderate,2
+allantoin,336,moderate,2
+leavening agent,336,moderate,2
+fat free milk,336,safe,1
+msg,336,moderately high,3
+doeufs,336,moderate,2
+sare iodat,336,moderate,2
+ginger root,335,safe,1
+kanel,335,moderate,2
+flax,335,moderate,2
+extrait de caf,335,moderate,2
+sucre de canne blond,335,moderate,2
+clous de girofle,335,moderate,2
+acesulfamk,335,moderate,2
+trace of lime,335,moderate,2
+phosphate de sodium,335,moderately high,3
+red chili,335,moderate,2
+salsa,335,moderate,2
+penino brano,335,moderate,2
+frise,335,moderate,2
+textured soy protein concentrate,334,moderate,2
+cyanocobalamine,334,moderate,2
+milchprotein,334,moderate,2
+ststoff,334,moderate,2
+cultured partskim milk,334,safe,1
+cheddar cheese cultured milk,334,safe,1
+lobster,334,moderate,2
+smoke,334,moderate,2
+camellia sinensis,333,moderate,2
+hvetegluten,333,moderate,2
+wheatflour,333,moderate,2
+cultured grade a non fat milk,333,safe,1
+mel,333,moderate,2
+ins d,333,moderate,2
+retinyl palmitate,332,moderate,2
+pea flour,332,moderate,2
+dried,332,moderate,2
+quinoa flour,332,safe,1
+glucuronolactone,332,moderate,2
+thunnus albacares,332,moderate,2
+saborizantes artificiales,332,moderate,2
+arme naturel de framboise,332,moderate,2
+clupea harengus,332,moderate,2
+oignons prfrits,332,moderate,2
+sulfato de zinc,331,moderate,2
+grano,331,moderate,2
+passion fruit,331,moderate,2
+soy lecithinan emulsifier,331,moderate,2
+iron and zinc,331,moderate,2
+poivre de cayenne,331,moderate,2
+sherry wine,331,moderate,2
+ssamo,331,moderate,2
+golden raisins,331,moderate,2
+non fat milk,331,safe,1
+polyphosphate,331,moderately high,3
+sirop dagave,331,moderate,2
+fibre de bambou,331,moderate,2
+huile de navette,331,moderate,2
+graine de soja,331,moderate,2
+surhedsregulerende middel,331,moderate,2
+crema di latte,331,moderate,2
+liquid smoke,330,moderate,2
+difosfato disodico,330,moderate,2
+tamari soy sauce,330,safe,1
+calcium propionate preservative,330,moderately high,3
+stabiliser xanthan gum,330,moderate,2
+man,330,moderate,2
+sesamzaad,330,moderate,2
+correcteur dacidit citrates de sodium,330,moderate,2
+suero lcteo en polvo,330,moderate,2
+malto dorzo,330,moderate,2
+noten,329,moderate,2
+potassium carbonates,329,moderate,2
+barley malt syrup,329,moderate,2
+ijzer,329,moderate,2
+schafsaitling,329,moderate,2
+huile vgtale de colza,329,moderate,2
+green cabbage,328,safe,1
+guarana extract,328,moderate,2
+beta carotene for color,328,safe,1
+glyceryl oleate,328,moderate,2
+tapiocazetmeel,328,moderate,2
+kaliumcarbonate,328,moderate,2
+antiklontermiddel,328,moderate,2
+barley malt powder,327,moderate,2
+contient moutarde,327,moderate,2
+organic strawberry puree,327,safe,1
+carrot fiber,327,safe,1
+traube,327,moderate,2
+sunflower andor safflower oil,327,moderate,2
+regulador de la acidez,327,moderate,2
+herbes et pices,327,moderate,2
+zuurteregelaars,327,moderate,2
+puerro,327,moderate,2
+sodium sulfite,326,moderately high,3
+vanillin artificial flavor,326,moderately high,3
+dried vegetables,326,moderate,2
+saccharomyces cerevisiae,326,moderate,2
+pectine de fruits,326,moderate,2
+jaunes doeufs,326,moderate,2
+calcio,325,moderate,2
+acidity regulators citric acid,325,moderate,2
+organic stevia extract,325,moderate,2
+carob bean,325,safe,1
+red chilli powder,325,moderate,2
+green chilli,325,safe,1
+glutinous rice,325,safe,1
+preservative calcium propionate,325,moderately high,3
+harina integral de trigo,325,moderate,2
+mageremelkpoeder,325,moderate,2
+correcteur dacidit e,325,moderate,2
+zinc citrate,324,moderate,2
+antiagglomrant,324,moderate,2
+fibre vgtale,324,moderate,2
+chicken breast meat,324,safe,1
+hydrolyzed corn,324,safe,1
+mononatriumglutamat,324,moderate,2
+arme artificiel,324,moderate,2
+bleu brillant fcf,324,moderate,2
+dextrza,324,moderate,2
+boneless,323,moderate,2
+nisin preparation,323,moderate,2
+chocolate flavored coating,323,safe,1
+beef and pork,323,moderate,2
+unbleached flour,323,moderate,2
+carob gum,323,moderate,2
+fruktosesirup,323,moderate,2
+carrot juice,323,safe,1
+colour plain caramel,323,moderate,2
+liquid glucose,323,moderately high,3
+leudante,323,moderate,2
+vollemelkpoeder,323,moderate,2
+low fat cocoa powder,322,moderate,2
+guava,322,safe,1
+sweet whey,322,moderate,2
+organic butter,322,safe,1
+coriander seed,322,safe,1
+black carrot juice concentrate,322,moderate,2
+methylisothiazolinone,322,moderate,2
+correctores de acidez,322,moderate,2
+persilja,322,moderate,2
+enacid,322,moderate,2
+poudre lever carbonates dammonium,321,moderate,2
+herb,321,safe,1
+betacarotin,321,moderate,2
+soy bean oil,321,moderate,2
+fdc yellow no,321,moderate,2
+farinha de trigo enriquecida com ferro e cido flico,321,moderate,2
+glifiant e,321,moderate,2
+chromium,320,moderate,2
+light brown sugar,320,moderately high,3
+farine de bl enrichie,320,moderate,2
+leavening sodium acid pyrophosphate,320,moderate,2
+essig,320,moderate,2
+weikohl,320,moderate,2
+poivres,320,moderate,2
+potet,319,moderate,2
+egg powder,319,moderate,2
+peppermint,319,moderate,2
+red chilli pure,319,safe,1
+yellow corn,319,safe,1
+dinde,319,moderate,2
+organic peanut butter,319,safe,1
+sem glten,319,moderate,2
+soy beans,319,safe,1
+paraffinum liquidum,319,moderate,2
