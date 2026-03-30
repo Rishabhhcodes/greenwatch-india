@@ -154,7 +154,7 @@ pip install -r requirements.txt
 
 ---
 
-### 🔹 3. Run the App
+### 3. Run the App
 
 ```bash
 streamlit run app.py
@@ -199,14 +199,14 @@ Deployed using **Render** with Streamlit.
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this useful:
-👉 Star the repo
-👉 Share with others
+-> Star the repo
+-> Share with others
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool provides **informational insights only** and does not replace professional dietary advice.
